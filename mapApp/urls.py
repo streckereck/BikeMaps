@@ -58,4 +58,8 @@ urlpatterns += format_suffix_patterns([
     url(r'^gcmdevices/(?P<registration_id>.+)/$', views.GCMDeviceDetail.as_view(), name='gcmdevice-detail'),
     url(r'^apnsdevices/$', views.APNSDeviceList.as_view(), name='apnsdevice-list'),
     url(r'^apnsdevices/(?P<registration_id>.+)/$', views.APNSDeviceDetail.as_view(), name='apnsdevice-detail'),
+	#Changes made by Ayan 02/20/18
+	#added 2 URL Routes for REST API endpoints
+	url(r'^collisions_tiny/?$', views.TinyCollisionList.as_view(), name='tiny-collisions-list'),
+	url(r'^collisions_xhr/?$', views.XHRCollisionDetail.as_view(), name='xhr-collision-detail'),
 ], allowed=['json'])
