@@ -138,3 +138,19 @@ class APNSDeviceSerializer(serializers.ModelSerializer):
     class Meta:
         model = APNSDevice
         fields = ('pk', 'name', 'active', 'user', 'date_created', 'registration_id')
+
+
+#Changes made by Ayan 02/20/18
+#added 2 serializer classes
+
+class TinyIncidentSerializer(GeoFeatureModelSerializer):
+    class Meta:
+        model = Incident
+        geo_field = 'geom'
+        fields = ('pk','date')
+
+class TinyXHRIncidentSerializer(GeoFeatureModelSerializer):
+    class Meta:
+        model = Incident
+        geo_field = 'geom'
+        fields = ('pk','i_type', 'incident_with','date','details')
