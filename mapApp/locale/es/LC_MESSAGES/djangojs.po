@@ -1,0 +1,199 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-28 11:39-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\mapApp\static\mapApp\js\index.js:48 .\mapApp\static\mapApp\js\vis.js:184
+msgid "Zoom in"
+msgstr "Aumentar el zoom"
+
+#: .\mapApp\static\mapApp\js\index.js:49 .\mapApp\static\mapApp\js\vis.js:185
+msgid "Zoom out"
+msgstr "Disminuir el zoom"
+
+#: .\mapApp\static\mapApp\js\index.js:70
+msgid "Search..."
+msgstr ""
+
+#: .\mapApp\static\mapApp\js\index.js:71
+msgid "Nothing found."
+msgstr ""
+
+#: .\mapApp\static\mapApp\js\index.js:348
+#: .\mapApp\static\mapApp\js\index.js:488
+msgid "New infrastructure"
+msgstr ""
+
+#: .\mapApp\static\mapApp\js\index.js:349
+#: .\mapApp\static\mapApp\js\index.js:489
+msgid "Date changed"
+msgstr ""
+
+#: .\mapApp\static\mapApp\js\index.js:350
+#: .\mapApp\static\mapApp\js\index.js:373
+#: .\mapApp\static\mapApp\js\index.js:490
+#: .\mapApp\static\mapApp\js\index.js:501
+msgid "Details"
+msgstr ""
+
+#: .\mapApp\static\mapApp\js\index.js:353
+#: .\mapApp\static\mapApp\js\index.js:481
+msgid "Type"
+msgstr ""
+
+#: .\mapApp\static\mapApp\js\index.js:354
+#: .\mapApp\static\mapApp\js\index.js:482
+msgid "Incident with"
+msgstr ""
+
+#: .\mapApp\static\mapApp\js\index.js:355
+#: .\mapApp\static\mapApp\js\index.js:483
+msgid "Due to"
+msgstr ""
+
+#: .\mapApp\static\mapApp\js\index.js:359
+#: .\mapApp\static\mapApp\js\index.js:473
+msgid "Hazard type"
+msgstr ""
+
+#: .\mapApp\static\mapApp\js\index.js:362
+#: .\mapApp\static\mapApp\js\index.js:477
+msgid "Theft type"
+msgstr ""
+
+#: .\mapApp\static\mapApp\js\index.js:368
+#: .\mapApp\static\mapApp\js\index.js:496
+msgid "Date"
+msgstr ""
+
+#: .\mapApp\static\mapApp\js\index.js:369
+#: .\mapApp\static\mapApp\js\index.js:497
+msgid "Incident ID"
+msgstr ""
+
+#: .\mapApp\static\mapApp\js\tooltips.js:3
+msgid "Search for an address"
+msgstr "Enviar un nuevo informe"
+
+#: .\mapApp\static\mapApp\js\vis.js:6 .\mapApp\static\mapApp\js\vis.js:102
+msgid "Collisions"
+msgstr ""
+
+#: .\mapApp\static\mapApp\js\vis.js:7 .\mapApp\static\mapApp\js\vis.js:103
+msgid "Nearmisses"
+msgstr ""
+
+#: .\mapApp\static\mapApp\js\vis.js:8 .\mapApp\static\mapApp\js\vis.js:104
+msgid "Hazards"
+msgstr ""
+
+#: .\mapApp\static\mapApp\js\vis.js:9 .\mapApp\static\mapApp\js\vis.js:105
+msgid "Thefts"
+msgstr ""
+
+#: .\mapApp\static\mapApp\js\vis.js:79 .\mapApp\static\mapApp\js\vis.js:98
+#: .\mapApp\static\mapApp\js\vis.js:123 .\mapApp\static\mapApp\js\vis.js:148
+msgid "Count"
+msgstr ""
+
+#: .\mapApp\static\moment\moment-with-locales.min.js:1
+msgid "\n"
+msgstr ""
+
+msgid "When was the incident?*"
+msgstr "¿Cuándo fue el incidente?*"
+
+msgid "Were you injured?*"
+msgstr "¿Te lastimaste?*"
+
+msgid "Were you wearing a helmet?"
+msgstr "¿Estabas usando un casco?"
+
+msgid "When was the theft?*"
+msgstr "¿Cuándo fue el robo?*"
+
+#~ msgid "Was the cyclist wearing a helmet?*"
+#~ msgstr "¿Llevaba un casco el ciclista?*"
+
+msgid "When did you notice the hazard?*"
+msgstr "¿Cuándo notaste el peligro?*"
+
+#~ msgid "How was the cyclist moving?"
+#~ msgstr "¿Cómo se movía el ciclista?"
+
+msgid "How was the rider moving?"
+msgstr "¿Cómo se movía el jinete?"
+
+msgid "What direction was the rider heading?"
+msgstr "¿En qué dirección se dirigía el jinete?"
+
+msgid "Was the rider wearing a helmet?"
+msgstr "¿El jinete llevaba casco?"
+
+msgid "Was the rider using bike lights?"
+msgstr "¿Estaba el ciclista usando luces de bicicleta?"
+
+#~ msgid "What direction was the cyclist heading?"
+#~ msgstr "¿En qué dirección se dirigía el ciclista?"
+
+#~ msgid "Was the cyclist using bike lights?"
+#~ msgstr "¿El ciclisita estaba usando luces para bicileta?"
+
+#~ msgid "What sort of object did the cyclist collide or nearly collide with?*"
+#~ msgstr "¿Con qué tipo de objeto chocó el ciclista o casi chocó?*"
+
+msgid "What sort of object did the rider collide or nearly collide with?*"
+msgstr "¿Con qué tipo de objeto chocó o casi chocó el piloto?*"
+
+msgid "Was the rider injured?*"
+msgstr "¿El jinete resultó herido?*"
+
+msgid "What type of bicycle was involved in the incident?"
+msgstr "¿Qué tipo de bicicleta estuvo involucrada en el incidente?"
+
+#~ msgid "Was the cyclist injured?"
+#~ msgstr "¿El ciclista fue herido?"
+
+msgid "What sort of object did you collide or nearly collide with?*"
+msgstr "¿Con qué tipo de objeto chocaste o casi chocaste?*"
+
+msgid "What type of bicycle were you riding?"
+msgstr "¿Qué tipo de bicicleta estabas usando?"
+
+msgid "Were you using bike lights?"
+msgstr "¿Estabas usando luces de bicicleta?"
+
+msgid "How were you moving?"
+msgstr "¿Cómo te estabas moviendo?"
+
+msgid "What direction were you heading?"
+msgstr "¿Hacia qué dirección te dirigías?"
+
+#~ msgid ""
+#~ "BikeMaps.org makes no representations, express or implied, as to the "
+#~ "accuracy, completeness and timeliness of the information, maps, and data "
+#~ "contained herein. Conclusions drawn or decisions made from the "
+#~ "information provided on BikeMaps.org are the responsibility of the user. "
+#~ "BikeMaps.org assumes no responsibility for its use."
+#~ msgstr ""
+#~ "BikeMaps.org no hace representaciones, expresas o implícitas, en cuanto a "
+#~ "la precisión, integridad y actualidad de la información, mapas y datos "
+#~ "contenidos en este documento. Las conclusiones extraídas o las decisiones "
+#~ "tomadas a partir de la información proporcionada en BikeMaps.org son "
+#~ "responsabilidad del usuario. BikeMaps.org no asume ninguna "
+#~ "responsabilidad por su uso."

@@ -1,0 +1,1560 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-14 10:48-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: .\VicBikeMap\settings\base.py:49
+msgid "English"
+msgstr "Inglés"
+
+#: .\VicBikeMap\settings\base.py:50
+msgid "French"
+msgstr "Francés"
+
+#: .\VicBikeMap\settings\base.py:51
+msgid "German"
+msgstr "Alemán"
+
+#: .\VicBikeMap\settings\base.py:52
+msgid "Dutch"
+msgstr ""
+
+#: .\VicBikeMap\settings\base.py:53
+msgid "Finnish"
+msgstr ""
+
+#: .\VicBikeMap\settings\base.py:54
+msgid "Icelandic"
+msgstr "Islandés"
+
+#: .\VicBikeMap\settings\base.py:55
+msgid "Spanish"
+msgstr "Español"
+
+#: .\templates\admin\base_site.html:4
+msgid "Django site admin"
+msgstr ""
+
+#: .\templates\admin\base_site.html:7
+msgid "BikeMap Administration"
+msgstr ""
+
+#: .\templates\admin\index.html:21
+#, python-format
+msgid "Models in the %(name)s application"
+msgstr ""
+
+#: .\templates\admin\index.html:22
+#, python-format
+msgid "%(name)s"
+msgstr ""
+
+#: .\templates\admin\index.html:34
+msgid "Add"
+msgstr ""
+
+#: .\templates\admin\index.html:40
+msgid "Change"
+msgstr ""
+
+#: .\templates\admin\index.html:50
+msgid "You don't have permission to edit anything."
+msgstr ""
+
+#: .\templates\admin\index.html:58
+msgid "Recent Actions"
+msgstr ""
+
+#: .\templates\admin\index.html:59
+msgid "My Actions"
+msgstr ""
+
+#: .\templates\admin\index.html:63
+msgid "None available"
+msgstr ""
+
+#: .\templates\admin\index.html:77
+msgid "Unknown content"
+msgstr ""
+
+#~ msgid "About"
+#~ msgstr "Acerca de"
+
+#~ msgid ""
+#~ "At BikeMaps we love biking as much as we love maps! Our goal is to map "
+#~ "your cycling experience to make biking safer. You know your local cycling "
+#~ "trouble spots and we want you to map them. Your knowledge of cycling "
+#~ "safety, hazards, and even bike thefts will be analyzed using GIS and "
+#~ "statistics to identify hot spots of cycling safety, risk, and crime.  We "
+#~ "are constantly updating our maps and technology, so send us feedback.  "
+#~ "And stay tuned for updated safety maps generated from YOUR biking "
+#~ "experience."
+#~ msgstr ""
+#~ "En BikeMaps amamos tanto andar en bicicleta como a los mapas. Nuestra "
+#~ "meta es mapear tu experiencia ciclista para hacer ciclismo más seguro. Tú "
+#~ "conoces los puntos problemáticos locales para ciclistas y nosotros "
+#~ "queremos que los mapees. Tus conocimientos sobre ciclismo seguro, los "
+#~ "peligros e incluso los robos de bicicletas serán analizados utilizando "
+#~ "SIG y estadística para identificar los puntos críticos de la seguridad, "
+#~ "el riesgo y la delincuencia en el ciclismo. Estamos actualizando "
+#~ "constantemente nuestros mapas y tecnología, así que envíanos tus "
+#~ "comentarios. Y mantente atento(a) a los mapas de seguridad actualizados "
+#~ "generados a partir de TU experiencia de ciclismo."
+
+#~ msgid "Sponsors"
+#~ msgstr "Patrocinadores"
+
+#~ msgid ""
+#~ "Development of this app was sponsored by the Canadian Automobile "
+#~ "Association, the Natural Sciences and Engineering Research Council of "
+#~ "Canada and Mitacs."
+#~ msgstr ""
+#~ "El desarrollo de esta plataforma fue patrocinado por la Asociación "
+#~ "Canadiense de Automóviles, el Consejo de Investigación de Ciencias "
+#~ "Naturales e Ingeniería de Canadá y Mitacs."
+
+#~ msgid "Contact"
+#~ msgstr "Contacto"
+
+#~ msgid ""
+#~ "Do you have questions, comments, or feedback about bikemaps.org? We would "
+#~ "love to hear from you! Please contact us by email at info@bikemaps.org."
+#~ msgstr ""
+#~ "¿Tienes preguntas, comentarios o retroalimentacion sobre bikemaps.org? "
+#~ "¡Nos encantaría saber de ti! Por favor contáctanos por correo electrónico "
+#~ "a info@bikemaps.org."
+
+#~ msgid "FAQ"
+#~ msgstr "Preguntas frecuentes"
+
+#~ msgid "Why are you collecting this information?"
+#~ msgstr "¿Por qué están recolectando esta información?"
+
+#~ msgid "What will you do with the data?"
+#~ msgstr "¿Qué van a hacer con los datos?"
+
+#~ msgid "Will you be advising local municipalities of the hazards?"
+#~ msgstr "¿Aconsejarán a los municipios locales sobre los peligros?"
+
+#~ msgid "Where do you get the rider volume data?"
+#~ msgstr "¿De dónde sacan los datos del volumen del ciclistas?"
+
+#~ msgid "Isn’t Strava data only where recreational cyclists are riding?"
+#~ msgstr ""
+#~ "¿Los datos de Strava no solo conciernen a los ciclistas recreativos?"
+
+#~ msgid "How can I get involved?"
+#~ msgstr "¿Cómo puedo involucrarme?"
+
+#~ msgid "I work for a municipality or city. How can we partner with BikeMaps?"
+#~ msgstr ""
+#~ "Trabajo para el gobierno de un municipio o ciudad. ¿Cómo podemos "
+#~ "asociarnos con BikeMaps?"
+
+#~ msgid ""
+#~ "Only ~30%(percent)s of bike collision data are collected and there is no "
+#~ "centralized reporting system. BikeMaps.org is a unique tool that let's "
+#~ "citizens build a database by mapping their riding experience."
+#~ msgstr ""
+#~ "Solo se recopilan ~ 30%(percent)s de los datos de colisión de bicicletas "
+#~ "y no hay un sistema de informes centralizado. BikeMaps.org es una "
+#~ "herramienta única que permite a los ciudadanos construir una base de "
+#~ "datos al mapear su experiencia de conducción."
+
+#~ msgid ""
+#~ "The BikeMaps.org team is interested in analyzing the data to determine "
+#~ "factors that influence cycling safety. We also have plans to build tools "
+#~ "to help people plan safer routes and to transfer these to planners in "
+#~ "your area."
+#~ msgstr ""
+#~ "El equipo de BikeMaps.org está interesado en analizar los datos para "
+#~ "determinar los factores que influyen en la seguridad del ciclismo. "
+#~ "También tenemos planes para crear herramientas que ayuden a las personas "
+#~ "a planear rutas más seguras y transferirlas a los planificadores de su "
+#~ "área."
+
+#~ msgid ""
+#~ "As more hazard data is logged, we intend to develop a system of alerting "
+#~ "the various municipalities. The time sensitivity of hazards varies widely "
+#~ "and we need to factor this in, for example broken glass versus a pothole."
+#~ msgstr ""
+#~ "A medida que se registran más datos sobre peligros, tenemos la intención "
+#~ "de desarrollar un sistema de alerta para los distintos municipios. La "
+#~ "sensibilidad temporal de los peligros varía ampliamente y debemos tener "
+#~ "esto en cuenta, por ejemplo, vidrios rotos frente a un bache."
+
+#~ msgid "The data on where cyclists are riding has been provided by Strava."
+#~ msgstr ""
+#~ "Strava ha proporcionado los datos sobre el lugar en el que viajan los "
+#~ "ciclistas."
+
+#~ msgid ""
+#~ "Stravalabs estimates that 40% of its rider data are commuter traffic, "
+#~ "though this likely varies by region."
+#~ msgstr ""
+#~ "Los datos sobre donde viajan los ciclistas han sido proporcionados por "
+#~ "Strava"
+
+#~ msgid ""
+#~ "How can citizens and municipalities monitor areas of interest to them?"
+#~ msgstr ""
+#~ "¿Cómo pueden los ciudadanos y municipios monitorear áreas de interés para "
+#~ "ellos?"
+
+#~ msgid ""
+#~ "I clicked submit, but noticed that my pin isn't in the right location. "
+#~ "How can I fix it?"
+#~ msgstr ""
+#~ "Hice clic en Enviar, pero noté que mi pin no está en la ubicación "
+#~ "correcta. ¿Cómo puedo arreglarlo?"
+
+#~ msgid ""
+#~ "You can share the website on social media, host a mapping demo night, or "
+#~ "volunteer to do GIS or development. If you own a bike store or small "
+#~ "business, you can advertise BikeMaps.org. We are also on the lookout for "
+#~ "more research funding to further develop the technology and expand the "
+#~ "study. Or, perhaps your group has GIS data that may improve BikeMaps.org."
+#~ msgstr ""
+#~ "Puedes compartir el sitio web en redes sociales, organizar una Noche de "
+#~ "Mapeo o ser voluntario(a) para hacer SIG o desarrollo. Si tienes una "
+#~ "tienda de bicicletas o una pequeña empresa, puedes anunciar BikeMaps.org. "
+#~ "También estamos buscando más fondos de investigación para desarrollar aún "
+#~ "más la tecnología y ampliar el estudio. O tal vez tu grupo tenga datos "
+#~ "SIG que pueden mejorar BikeMaps.org."
+
+#~ msgid ""
+#~ "We would love to hear from you. Please contact us at info@bikemaps.org or "
+#~ "trisalyn@uvic.ca."
+#~ msgstr ""
+#~ "Nos encantaría saber de ti. Por favor contáctanos en info@bikemaps.org o "
+#~ "trisalyn@uvic.ca."
+
+#~ msgid "What type of incident are you reporting?"
+#~ msgstr "¿Qué tipo de incidente estás reportando?"
+
+#~ msgid "Collision"
+#~ msgstr "Colisión"
+
+#~ msgid "Near Miss"
+#~ msgstr "Casi accdiente"
+
+#~ msgid "Hazard"
+#~ msgstr "Peligro"
+
+#~ msgid "Theft"
+#~ msgstr "Robo"
+
+#~ msgid "Cancel"
+#~ msgstr "Cancelar"
+
+#~ msgid "Continue"
+#~ msgstr "Continuar"
+
+#~ msgid "What is your birth year?"
+#~ msgstr "¿Cuál es tu año de nacimiento?"
+
+#~ msgid "Select a Year"
+#~ msgstr "Selecciona un año"
+
+#~ msgid "What is your birth month?"
+#~ msgstr "¿Cuál es tu mes de nacimiento?"
+
+#~ msgid "Select a month"
+#~ msgstr "Selecciona un mes"
+
+#~ msgid "Please select your gender"
+#~ msgstr "Por favor selecciona tu género"
+
+#~ msgid "Select a gender"
+#~ msgstr "Por favor selecciona tu género"
+
+#~ msgid "Do you bike at least once a week?"
+#~ msgstr "¿Pedaleas al menos una vez a la semana?"
+
+#~ msgid "Select an option"
+#~ msgstr "Selecciona una opcion"
+
+#~ msgid "I have read and understood the terms and conditions."
+#~ msgstr "He leído y entendido los términos y condiciones."
+
+#~ msgid "---------"
+#~ msgstr "---------"
+
+#~ msgid "January"
+#~ msgstr "Enero"
+
+#~ msgid "February"
+#~ msgstr "Febrero"
+
+#~ msgid "March"
+#~ msgstr "Marzo"
+
+#~ msgid "April"
+#~ msgstr "Abril"
+
+#~ msgid "May"
+#~ msgstr "Mayo"
+
+#~ msgid "June"
+#~ msgstr "Junio"
+
+#~ msgid "July"
+#~ msgstr "Julio"
+
+#~ msgid "August"
+#~ msgstr "Agosto"
+
+#~ msgid "September"
+#~ msgstr "Septiembre"
+
+#~ msgid "October"
+#~ msgstr "Octubre"
+
+#~ msgid "November"
+#~ msgstr "Noviembre"
+
+#~ msgid "December"
+#~ msgstr "Diciembre"
+
+#~ msgid "Jan"
+#~ msgstr "Ene."
+
+#~ msgid "Feb"
+#~ msgstr "Feb."
+
+#~ msgid "Mar"
+#~ msgstr "Mar."
+
+#~ msgid "Apr"
+#~ msgstr "Abr."
+
+#~ msgid "Jun"
+#~ msgstr "Jun."
+
+#~ msgid "Jul"
+#~ msgstr "Jul."
+
+#~ msgid "Aug"
+#~ msgstr "Ago."
+
+#~ msgid "Sept"
+#~ msgstr "Sept."
+
+#~ msgid "Oct"
+#~ msgstr "Oct."
+
+#~ msgid "Nov"
+#~ msgstr "Nov."
+
+#~ msgid "Dec"
+#~ msgstr "Dic."
+
+#~ msgid "Monday"
+#~ msgstr "Lunes"
+
+#~ msgid "Tuesday"
+#~ msgstr "Martes"
+
+#~ msgid "Wednesday"
+#~ msgstr "Miércoles"
+
+#~ msgid "Thursday"
+#~ msgstr "Jueves"
+
+#~ msgid "Friday"
+#~ msgstr "Viernes"
+
+#~ msgid "Saturday"
+#~ msgstr "Sábado"
+
+#~ msgid "Sunday"
+#~ msgstr "Domingo"
+
+#~ msgid "Mon"
+#~ msgstr "Lun."
+
+#~ msgid "Tue"
+#~ msgstr "Mar."
+
+#~ msgid "Wed"
+#~ msgstr "Miérc."
+
+#~ msgid "Thu"
+#~ msgstr "Juev."
+
+#~ msgid "Fri"
+#~ msgstr "Vier."
+
+#~ msgid "Sat"
+#~ msgstr "Sáb."
+
+#~ msgid "Sun"
+#~ msgstr "Dom."
+
+#~ msgid "Male"
+#~ msgstr "Masculino"
+
+#~ msgid "Female"
+#~ msgstr "Femenino"
+
+#~ msgid "Other"
+#~ msgstr "Otro"
+
+#~ msgid "Yes"
+#~ msgstr "Si"
+
+#~ msgid "No"
+#~ msgstr "No"
+
+#~ msgid "I don't know"
+#~ msgstr "No lo sé"
+
+#~ msgid ""
+#~ "Remember birth year, birth month, gender and biking frequency for all "
+#~ "future reports."
+#~ msgstr ""
+#~ "Recordar el año de nacimiento, mes de nacimiento, género y frecuencia de "
+#~ "ciclismo para todos los reportes futuros."
+
+#~ msgid "Done"
+#~ msgstr "Finalizado"
+
+#~ msgid "Submit"
+#~ msgstr "Enviar"
+
+#~ msgid "Description"
+#~ msgstr "Descripción"
+
+#~ msgid "Please give a brief description of the incident"
+#~ msgstr "Por favor proporciona una breve descripción del incidente"
+
+#~ msgid "Personal Details"
+#~ msgstr "Detalles personales"
+
+#~ msgid "Conditions"
+#~ msgstr "Condiciones"
+
+#~ msgid "Where did you first find out about BikeMaps.org?"
+#~ msgstr "¿Dónde te enteraste por primera vez sobre BikeMaps.org?"
+
+#~ msgid "Directly from the BikeMaps.org team"
+#~ msgstr "Directamente por medio del equipo de BikeMaps.org"
+
+#~ msgid ""
+#~ "BikeMaps.org swag (e.g., seat cover, water bottle, etc.) without meeting "
+#~ "the team"
+#~ msgstr ""
+#~ "Por los promocionales de BikeMaps.org swag (por ejemplo, el protector "
+#~ "para asiento, botella de agua, etc.) sin haber conocido al equipo"
+
+#~ msgid "Traditional media (newspaper, TV, radio)"
+#~ msgstr "Medios tradicionales (periódico, TV, radio)"
+
+#~ msgid "Link from another website"
+#~ msgstr "Vinculo desde otro sitio web"
+
+#~ msgid "Word of mouth"
+#~ msgstr "De boca en boca"
+
+#~ msgid "Social media (e.g., Twitter, Instagram, Facebook)"
+#~ msgstr "Redes sociales (por ejemplo, Twitter, Instagram, Facebook)"
+
+#~ msgid "I don't remember"
+#~ msgstr "No me acuerdo"
+
+#~ msgid "What time did the incident occur?"
+#~ msgstr "¿A qué hora ocurrió el incidente?"
+
+#~ msgid "Were you wearing a helmet?"
+#~ msgstr "¿Estabas usando un casco?"
+
+#~ msgid "Were you intoxicated?"
+#~ msgstr "¿Estabas intoxicado?"
+
+#~ msgid "Hazard Report"
+#~ msgstr "Reporte de peligro"
+
+#~ msgid "Hazard Details"
+#~ msgstr "Detalles del peligro"
+
+#~ msgid "What type of hazard was it?"
+#~ msgstr "¿Qué tipo de peligro era?"
+
+#~ msgid "Select a hazard type"
+#~ msgstr "Selecciona un tipo de peligro"
+
+#~ msgid "Curb"
+#~ msgstr "Borde de la acera"
+
+#~ msgid "Train track"
+#~ msgstr "Vías de tren"
+
+#~ msgid "Pothole"
+#~ msgstr "Bache"
+
+#~ msgid "Road surface"
+#~ msgstr "Superficie de la calle"
+
+#~ msgid "Poor signage"
+#~ msgstr "Mala señalización"
+
+#~ msgid "Speed limits"
+#~ msgstr "Límites de velocidad"
+
+#~ msgid "Blind corner or turn"
+#~ msgstr "Esquina ciega o vuelta"
+
+#~ msgid "Bike lane disappears"
+#~ msgstr "La ciclovía desaparece"
+
+#~ msgid "Vehicles entering/exiting roadway"
+#~ msgstr "Vehículos entrando/saliendo de la calzada"
+
+#~ msgid "Dooring risk zone"
+#~ msgstr "Zona de riesgo por puertas"
+
+#~ msgid "Vehicle use of bike lane"
+#~ msgstr "Uso de vehículos en la ciclovía"
+
+#~ msgid "Dangerous intersection"
+#~ msgstr "Intersección peligrosa"
+
+#~ msgid "Dangerous vehicle left turn"
+#~ msgstr "Giro a la izquierda de vehículos  peligroso"
+
+#~ msgid "Dangerous vehicle right turn"
+#~ msgstr "Giro a la derecha de vehículos  peligroso"
+
+#~ msgid "Sensor does not pick up bikes"
+#~ msgstr "El sensor no reconoce bicicletas."
+
+#~ msgid "Steep hill - bike speed affected"
+#~ msgstr "Colina empinada - velocidad para bicicletas afectada"
+
+#~ msgid "Narrow road"
+#~ msgstr "Camino estrecho"
+
+#~ msgid "Pedestrian conflict zone"
+#~ msgstr "Zona de conflicto peatonal"
+
+#~ msgid "Other (Please describe)"
+#~ msgstr "Otro (por favor describe)"
+
+#~ msgid "Environmental"
+#~ msgstr "Ambiental"
+
+#~ msgid "Icy/Snowy"
+#~ msgstr "Helado/Nevado"
+
+#~ msgid "Poor visibility"
+#~ msgstr "Baja visibilidad"
+
+#~ msgid "Broken glass on road"
+#~ msgstr "Vidrios rotos en el camino"
+
+#~ msgid "Wet leaves on road"
+#~ msgstr "Hojas mojadas en el camino"
+
+#~ msgid "Gravel, rocks, or debris on road"
+#~ msgstr "Grava, piedras, o escombros en el camino"
+
+#~ msgid "Construction"
+#~ msgstr "Construcción"
+
+#~ msgid "Collision Details"
+#~ msgstr "Detalles de la colisión"
+
+#~ msgid "Collision with a stationary object or vehicle"
+#~ msgstr "Colisión con un objeto o vehículo estacionado "
+
+#~ msgid "Collision with a moving object or vehicle"
+#~ msgstr "Colisión con un objeto o vehículo en movimiento"
+
+#~ msgid "Fall"
+#~ msgstr "Caída"
+
+#~ msgid "Lost control and fell"
+#~ msgstr "Perdí el control y me caí."
+
+#~ msgid "Near miss"
+#~ msgstr "Casi accdiente"
+
+#~ msgid "Nearmiss Details"
+#~ msgstr "Detalles del casi accdiente"
+
+#~ msgid "Near miss with a stationary object or vehicle"
+#~ msgstr "Casi accdiente con un objeto o vehículo estacionado"
+
+#~ msgid "Near miss with a moving object or vehicle"
+#~ msgstr "Casi accdiente con un objeto o vehículoen movimiento"
+
+#~ msgid "Vehicle"
+#~ msgstr "Vehículo"
+
+#~ msgid "Head on"
+#~ msgstr "De frente"
+
+#~ msgid "Side impact"
+#~ msgstr "Impacto lateral"
+
+#~ msgid "Angle impact"
+#~ msgstr "Ángulo de impacto"
+
+#~ msgid "Rear end"
+#~ msgstr "Parte trasera"
+
+#~ msgid "Open vehicle door"
+#~ msgstr "Puerta de vehículo abierta"
+
+#~ msgid "Person/animal"
+#~ msgstr "Persona/animal"
+
+#~ msgid "Another cyclist"
+#~ msgstr "Otro ciclista"
+
+#~ msgid "Pedestrian"
+#~ msgstr "Peatón"
+
+#~ msgid "Animal"
+#~ msgstr "Animal"
+
+#~ msgid "Infrastructure"
+#~ msgstr "Infrastructura"
+
+#~ msgid "Train Tracks"
+#~ msgstr "Vías de tren"
+
+#~ msgid "Lane divider"
+#~ msgstr "Divisor de carril"
+
+#~ msgid "Sign/Post"
+#~ msgstr "Señal/poste"
+
+#~ msgid "Roadway"
+#~ msgstr "Calzada"
+
+#~ msgid "Other (please describe)"
+#~ msgstr "Otro (por favor describe)"
+
+#~ msgid "Medical treatment not required"
+#~ msgstr "Tratamiento médico."
+
+#~ msgid "Saw a family doctor"
+#~ msgstr "Acudí con un médico familiar."
+
+#~ msgid "Visited the hospital emergency dept"
+#~ msgstr "Visité el departamento de urgencias del hospital."
+
+#~ msgid "Overnight stay in hospital"
+#~ msgstr "Estancia por la noche en el hospital."
+
+#~ msgid "No injury"
+#~ msgstr "Ninguna herida"
+
+#~ msgid "No impact"
+#~ msgstr "Ningún impacto"
+
+#~ msgid "I'm more careful about where/when I ride"
+#~ msgstr "Ahora tengo más cuidado con donde/cuándo ando en bicicleta"
+
+#~ msgid "I bike less"
+#~ msgstr "Uso menos la bicicleta"
+
+#~ msgid "I'm now more careful about where/when I ride AND I bike less"
+#~ msgstr ""
+#~ "Ahora tengo más cuidado con donde/cuándo ando en bicicleta y ando menos."
+
+#~ msgid "I haven't biked since"
+#~ msgstr "No he andado en bicicleta desde entonces."
+
+#~ msgid "Too soon to say"
+#~ msgstr "Demasiado pronto para decir"
+
+#~ msgid "To/from work or school"
+#~ msgstr "Al/desde el trabajo o a la escuela"
+
+#~ msgid "Exercise or recreation"
+#~ msgstr "Ejercicio o recreación "
+
+#~ msgid "Social reason (e.g., movies, visit friends)"
+#~ msgstr "Motivo social (por ejemplo, películas, visitas a amigos)."
+
+#~ msgid "Personal business"
+#~ msgstr "Negocios personales"
+
+#~ msgid "During work"
+#~ msgstr "Durante el trabajo"
+
+#~ msgid "Dry"
+#~ msgstr "Seco"
+
+#~ msgid "Wet"
+#~ msgstr "Mojado"
+
+#~ msgid "Loose sand, gravel, or dirt"
+#~ msgstr "Arena suelta, grava o tierra"
+
+#~ msgid "Icy"
+#~ msgstr "Helado"
+
+#~ msgid "Snowy"
+#~ msgstr "Nevado"
+
+#~ msgid "No obstructions"
+#~ msgstr "Sin obstrucciones"
+
+#~ msgid "View obstructed"
+#~ msgstr "Vista obstruida  "
+
+#~ msgid "Glare or reflection"
+#~ msgstr "Brillo o reflejo"
+
+#~ msgid "Obstruction on road"
+#~ msgstr "Obstrucción en la calle"
+
+#~ msgid "Busy street"
+#~ msgstr "Calle ocupada"
+
+#~ msgid "On a cycle track (separated bike lane)"
+#~ msgstr "En una ciclo vía (carril separado para bicis) "
+
+#~ msgid "On a painted bike lane"
+#~ msgstr "En una ciclovía pintada."
+
+#~ msgid "On a road with no bike facilities"
+#~ msgstr "En la calle sin instalaciones para bicicletas."
+
+#~ msgid "Quiet street"
+#~ msgstr "Calle tranquila."
+
+#~ msgid "Not on the street"
+#~ msgstr "No en la calle."
+
+#~ msgid "On a physically separated bike lane (cycle track)"
+#~ msgstr "En una ciclovía separada fisicamente (pista para biclicletas) "
+
+#~ msgid "On a mixed use trail"
+#~ msgstr "En una ciclovía separada fisicamente (pista para biclicletas) "
+
+#~ msgid "On the sidewalk"
+#~ msgstr "En la banqueta."
+
+#~ msgid "No Lights"
+#~ msgstr "Sin luces"
+
+#~ msgid "Front and back lights"
+#~ msgstr "Luces delanteras  y traseras"
+
+#~ msgid "Front lights only"
+#~ msgstr "Solo luces delanteras"
+
+#~ msgid "Back lights only"
+#~ msgstr "Solo luces traseras"
+
+#~ msgid "Uphill"
+#~ msgstr "De subiida"
+
+#~ msgid "Downhill"
+#~ msgstr "De bajada"
+
+#~ msgid "Flat"
+#~ msgstr "Plano"
+
+#~ msgid "N"
+#~ msgstr "N"
+
+#~ msgid "NE"
+#~ msgstr "NE"
+
+#~ msgid "E"
+#~ msgstr "E"
+
+#~ msgid "SE"
+#~ msgstr "SE"
+
+#~ msgid "S"
+#~ msgstr "S"
+
+#~ msgid "SW"
+#~ msgstr "SO"
+
+#~ msgid "W"
+#~ msgstr "O"
+
+#~ msgid "NW"
+#~ msgstr "NW"
+
+#~ msgid "Heading straight"
+#~ msgstr "En dirección recta"
+
+#~ msgid "Turning left"
+#~ msgstr "Girando a la izquierda"
+
+#~ msgid "Turning right"
+#~ msgstr "Girando a la derecha"
+
+#~ msgid "Were you directly involved in the incident?"
+#~ msgstr "¿Estuviste involucrado(a) de manera directa en el incidente?"
+
+#~ msgid "Yes, this happened to me"
+#~ msgstr "Si, esto me pasó a mi."
+
+#~ msgid "No, I witnessed this happen to someone else"
+#~ msgstr "No, yo fui testigo de que esto le sucedió a otra persona."
+
+msgid "What type of bicycle were you riding?"
+msgstr "¿Qué tipo de bicicleta estabas usando?"
+
+#~ msgid "Personal (my own bicycle or a friend's)"
+#~ msgstr "Personal (mi propia bicicleta o la de un amigo/a)"
+
+#~ msgid "Bike share"
+#~ msgstr "Porgrama de comprartir biciletas"
+
+#~ msgid "Bike rental"
+#~ msgstr "Bicicleta rentada"
+
+#~ msgid "Did the incident involve a pedal-assist electric bike (eBike)?"
+#~ msgstr ""
+#~ "¿El incidente involucró una bicicleta eléctrica asistida por pedales "
+#~ "(eBike)?"
+
+#~ msgid "What type of incident was it?"
+#~ msgstr "¿Qué tipo de incidente fue?"
+
+#~ msgid "What sort of object did you collide or nearly collide with?"
+#~ msgstr "¿Con qué tipo de objeto chocaste o casi chocaste?"
+
+#~ msgid "Were you injured?"
+#~ msgstr "¿Te lastimaste?"
+
+#~ msgid "How did this incident impact your bicycling?"
+#~ msgstr "¿Cómo afectó este incidente a tu andar bicicleta?"
+
+#~ msgid "What was the purpose of your trip?"
+#~ msgstr "¿Cuál era  el propósito de tu viaje?"
+
+#~ msgid "What were the road conditions?"
+#~ msgstr "¿Cuáles fueron las condiciones de la calle?"
+
+#~ msgid "How were the sight lines?"
+#~ msgstr "¿Cómo eran las líneas de visión?"
+
+#~ msgid "Were there cars parked on the roadside"
+#~ msgstr "¿Había autos estacionados en la calle?"
+
+#~ msgid "Where were you riding your bike?"
+#~ msgstr "¿Dónde estabas montando tu bicicleta?"
+
+msgid "Were you using bike lights?"
+msgstr "¿Estabas usando luces de bicicleta?"
+
+#~ msgid "What was the terrain like?"
+#~ msgstr "¿Cómo era el terreno?"
+
+#~ msgid "What direction were you heading?"
+#~ msgstr "¿Hacia qué dirección te dirigías?"
+
+msgid "How were you moving?"
+msgstr "¿Cómo te estabas moviendo?"
+
+msgid "Layers"
+msgstr "Capas"
+
+msgid "Citizen collision report"
+msgstr "Informe de colisión ciudadana"
+
+#~ msgid "Citizen near miss report"
+#~ msgstr "Informe de casi accdiente ciudadano"
+
+#~ msgid "Cyclist hazard"
+#~ msgstr "Peligro para ciclistas"
+
+#~ msgid "Bike theft"
+#~ msgstr "Robo de bicicleta"
+
+#~ msgid "Strava ridership data"
+#~ msgstr "Datos de usuarios de Strava"
+
+#~ msgid "Alert Areas"
+#~ msgstr "Áreas de Alerta"
+
+#~ msgid "Bike rack"
+#~ msgstr "Anclaje para bicicletas"
+
+#~ msgid "Protected bike lane"
+#~ msgstr "Ciclovía protegida"
+
+#~ msgid "Bike lane"
+#~ msgstr "Ciclovía"
+
+#~ msgid "Other cycling route"
+#~ msgstr "Otra ruta ciclista"
+
+#~ msgid "Less"
+#~ msgstr "Menos"
+
+#~ msgid "More"
+#~ msgstr "Más"
+
+#~ msgid "Login"
+#~ msgstr "Iniciar sesión"
+
+#~ msgid "Username"
+#~ msgstr "Nombre de usuario"
+
+#~ msgid "Password"
+#~ msgstr "Contraseña"
+
+#~ msgid "Create an account"
+#~ msgstr "Crea una cuenta"
+
+#~ msgid "I don't know my password"
+#~ msgstr "No me se mi contraseña"
+
+#~ msgid "Note that your username and password are case sensitive."
+#~ msgstr ""
+#~ "Ten en cuenta que tu nombre de usuario y contraseña distinguen entre "
+#~ "mayúsculas y minúsculas."
+
+#~ msgid "Username and password are required."
+#~ msgstr "Se require de  nombre de usuario y contraseña."
+
+#~ msgid "Welcome to BikeMaps!"
+#~ msgstr "¡Bienvenido(a) a BikeMaps!"
+
+#~ msgid ""
+#~ "BikeMaps.org is a crowdsource tool for global mapping of cycling safety. "
+#~ "Using the <span class=\"marker-icon\"></span> button, add your own data "
+#~ "on cycling crashes, near-misses, hazards, and thefts. <a href=\"%(about-"
+#~ "link)s\">More info</a>"
+#~ msgstr ""
+#~ "BikeMaps.org es una herramienta de crowdsource para el mapeo global de la "
+#~ "seguridad en bicicleta. Usando el botón <span class=\"marker-icon\"></"
+#~ "span>, agregue sus propios datos sobre accidentes de ciclismo, casi "
+#~ "accidentes, peligros y robos. <a href=\"%(about-link)s\">Más información</"
+#~ "a>"
+
+#~ msgid "Do not show this message again."
+#~ msgstr "No mostrar este mensaje de nuevo."
+
+#~ msgid "Settings"
+#~ msgstr "Ajustes"
+
+#~ msgid "Logout"
+#~ msgstr "Cerrar sesión"
+
+#~ msgid "Notifications"
+#~ msgstr "Notificaciones"
+
+#~ msgid "There are no notifications."
+#~ msgstr "No hay notificaciones."
+
+#~ msgid "Reset Password"
+#~ msgstr "Restablecer la contraseña"
+
+#~ msgid "Email:"
+#~ msgstr "Email:"
+
+#~ msgid ""
+#~ "You should receive an email shortly with instructions on how to reset "
+#~ "your account password."
+#~ msgstr ""
+#~ "Recibirás un correo electrónico en breve con instrucciones sobre cómo "
+#~ "restablecer la contraseña de tu cuenta."
+
+#~ msgid "Email"
+#~ msgstr "Email"
+
+#~ msgid "Confirm password"
+#~ msgstr "Confirmar contraseña"
+
+#~ msgid "This field is required."
+#~ msgstr "Este campo es requerido."
+
+#~ msgid "Your username must be at least six characters long."
+#~ msgstr "Tu nombre de usuario debe tener al menos seis caracteres."
+
+#~ msgid "Your passwords do not match."
+#~ msgstr "Tus contraseñas no coinciden."
+
+#~ msgid ""
+#~ "Great! You've just registered.  You should receive an email shortly with "
+#~ "instructions on how to activate your account."
+#~ msgstr ""
+#~ "¡Genial! Te acabas de registrar. Debes recibir un correo electrónico en "
+#~ "breve con instrucciones sobre cómo activar tu cuenta."
+
+#~ msgid "Language"
+#~ msgstr "Idioma"
+
+#~ msgid "Select a language"
+#~ msgstr "Selecciona un idioma"
+
+#~ msgid "Receive alerts"
+#~ msgstr "Recibir alertas"
+
+#~ msgid "Theft Report"
+#~ msgstr "Reporte de robo"
+
+#~ msgid "Theft Details"
+#~ msgstr "Detalles de robo"
+
+msgid "What was stolen?"
+msgstr "¿Qué fue robado?"
+
+msgid "Did you have your bike locked?"
+msgstr "¿Tenías tu bicicleta con candado?"
+
+msgid "What kind of lock were you using?"
+msgstr "¿Qué tipo de candado estabas usando?"
+
+msgid "Where did you leave your bike?"
+msgstr "¿Dónde dejaste tu bicicleta?"
+
+msgid "Which describes the lighting conditions where and when the theft occurred?"
+msgstr "¿Cuál describe las condiciones de iluminación donde y cuando ocurrió el robo?"
+
+msgid "Which best describes the traffic in the area where the theft occurred?"
+msgstr "¿Cuál describe mejor el tráfico en el área donde ocurrió el robo?"
+
+#~ msgid "Did you file a report with the police?"
+#~ msgstr "¿Presentaste un reporte a la policía?"
+
+#~ msgid "If you filed a police report, what is the report number?"
+#~ msgstr "Si presentaste un reporte policial, ¿cuál es el número del reporte?"
+
+#~ msgid "Did you file an insurance claim?"
+#~ msgstr "¿Presentaste una reclamación de seguro?"
+
+#~ msgid "If you filed an insurance claim, what is the claim number?"
+#~ msgstr ""
+#~ "Si presentaste una reclamación de seguro, ¿cuál es el número de "
+#~ "reclamación?"
+
+#~ msgid "Bike (value < $1000)"
+#~ msgstr "Valor de la bicicleta < $1000"
+
+#~ msgid "Bike (value >= $1000)"
+#~ msgstr "Valor de la bicicleta <= $1000"
+
+#~ msgid "Major bike component (e.g. tire, seat, handlebars, etc.)"
+#~ msgstr ""
+#~ "Componente principal de la bicicleta (por ejemplo, llanta, asiento, "
+#~ "manubrio, etc.)"
+
+#~ msgid "Minor bike component (e.g. lights, topbar padding, bell, etc.)"
+#~ msgstr ""
+#~ "Componente menor de la bicicleta (por ejemplo, luces, relleno de la barra "
+#~ "superior, campana, etc.)"
+
+#~ msgid "Frame locked"
+#~ msgstr "Marco de la bicicleta asegurado con el candado"
+
+#~ msgid "Frame and tire locked"
+#~ msgstr "Marco de la bicicleta y llanta asegurados con el candado"
+
+#~ msgid "Frame and both tires locked"
+#~ msgstr "Marco de la bicicleta y  ambas llantas asegurados con el candado"
+
+#~ msgid "Tire(s) locked"
+#~ msgstr "Llantas aseguradas con el candado"
+
+#~ msgid "Not locked"
+#~ msgstr "No asegurada con candado"
+
+#~ msgid "U-Lock"
+#~ msgstr "U-Lock"
+
+#~ msgid "Cable lock"
+#~ msgstr "Candado de cable"
+
+#~ msgid "U-Lock and cable"
+#~ msgstr "U-Lock y cable de candado"
+
+#~ msgid "Padlock"
+#~ msgstr "Candado (normal)"
+
+#~ msgid "At an outdoor bike rack"
+#~ msgstr "En un estacionamiento para bicicletas afuera"
+
+#~ msgid "At an indoor bike rack (e.g. parking garage, bike room)"
+#~ msgstr "En un estacionamiento para bicicletas adentro"
+
+#~ msgid "Inside a bike locker"
+#~ msgstr "En el interior de un casillero para bicicletas"
+
+#~ msgid "Against street sign"
+#~ msgstr "Contra un señalamiento de calle"
+
+#~ msgid "Against a fence or railing"
+#~ msgstr "Contra una valla o barandilla"
+
+#~ msgid "Against a public bench"
+#~ msgstr "Contra un banca pública "
+
+#~ msgid "Inside a building/lobby"
+#~ msgstr "Dentro de un edificio/lobby"
+
+#~ msgid "Well lit (e.g. bright daylight)"
+#~ msgstr "Bien iluminado (por ejemplo, luz del día brillante)"
+
+#~ msgid "Moderately well lit (e.g. streetlights, parking garage)"
+#~ msgstr ""
+#~ "Moderadamente bien iluminado (por ejemplo, farolas, estacionamiento)"
+
+#~ msgid "Poorly lit (e.g. night, unlit alleyway)"
+#~ msgstr "Poco iluminado (por ejemplo, noche, callejón sin luz)"
+
+#~ msgid "Very heavy (pedestrians passing by in a nearly constant stream)"
+#~ msgstr "Muy pesado ​​(peatones pasando en una corriente casi constante)"
+
+#~ msgid "Heavy (pedestrians passing by regularly)"
+#~ msgstr "Pesado (peatones pasando regularmente)"
+
+#~ msgid "Moderate (irregular pedestrian with busy vehicle traffic)"
+#~ msgstr "Moderado (peatón irregular con un tráfico de vehículos cargado)"
+
+#~ msgid "Light (irregular pedestrian with light to moderate vehicle traffic)"
+#~ msgstr ""
+#~ "Ligero (peatón irregular con un tráfico ligero a moderado de vehículos)"
+
+#~ msgid "Very light (little pedestrian and vehicle traffic)"
+#~ msgstr "Muy ligero (poco tráfico peatonal y vehicular)."
+
+#~ msgid "Terms and Conditions"
+#~ msgstr "Términos y Condiciones"
+
+#~ msgid "Letter of Informed Consent"
+#~ msgstr "Carta de Consentimiento Informado"
+
+#~ msgid "Accept"
+#~ msgstr "Acepto"
+
+#~ msgid "Incidents"
+#~ msgstr "Incidente"
+
+#~ msgid "Dogs"
+#~ msgstr "Perros(as)"
+
+#~ msgid "Dog"
+#~ msgstr "Perro(a)"
+
+#~ msgid "Collision or Fall"
+#~ msgstr "Colisión o caída"
+
+msgid "I'm now more careful about where/when/how I ride"
+msgstr "Ahora tengo más cuidado de donde/cuando/como ando en bicicleta"
+
+msgid "I'm now more careful about where/when/how I ride AND I bike less"
+msgstr "Ahora tengo más cuidado de donde/cuando/como ando en bicicleta Y ando menos"
+
+#~ msgid "E-scooter"
+#~ msgstr "E-scooter"
+
+#~ msgid "What were you riding?"
+#~ msgstr "¿En qué ibas viajando?"
+
+#~ msgid "Bicycle"
+#~ msgstr "Bicicleta"
+
+#~ msgid "I was a pedestrian"
+#~ msgstr "Yo era un peatón"
+
+#~ msgid "I was driving"
+#~ msgstr "Yo estaba manejando/conduciendo"
+
+msgid "What sort of object did the cyclist collide or nearly collide with?"
+msgstr "¿Con qué tipo de objeto chocó el ciclista o casi chocó?"
+
+#~ msgid "Was the cyclist injured?"
+#~ msgstr "¿El ciclista fue herido?"
+
+#~ msgid "Was the cyclist using bike lights?"
+#~ msgstr "¿El ciclisita estaba usando luces para bicileta?"
+
+#~ msgid "Did the incident occur at an intersection?"
+#~ msgstr "¿El incidente ocurrió en una intersección?"
+
+#~ msgid "Was the driver aggressive?"
+#~ msgstr "¿El conductor fue agresivo?"
+
+#~ msgid "What direction was the cyclist heading?"
+#~ msgstr "¿En qué dirección se dirigía el ciclista?"
+
+#~ msgid "How was the cyclist moving?"
+#~ msgstr "¿Cómo se movía el ciclista?"
+
+msgid "What type of bicycle was involved in the incident?"
+msgstr "¿Qué tipo de bicicleta estuvo involucrada en el incidente?"
+
+#~ msgid "When did you notice the hazard?"
+#~ msgstr "¿Cuándo notaste el peligro?"
+
+#~ msgid "Passing"
+#~ msgstr "Pasando"
+
+#~ msgid "I was not directly involved"
+#~ msgstr "No estuve directamente involucrado(a)."
+
+#~ msgid "Was the cyclist wearing a helmet?"
+#~ msgstr "¿Llevaba un casco el ciclista?"
+
+#~ msgid "New infrastructure"
+#~ msgstr "Nueva infraestructura"
+
+msgid "When was the theft?"
+msgstr "¿Cuándo fue el robo?"
+
+#~ msgid ""
+#~ "Do you have questions, comments, or feedback about bikemaps.org? We would "
+#~ "love to hear from you!"
+#~ msgstr ""
+#~ "¿Tiene preguntas, comentarios o comentarios sobre bikemaps.org? ¡Nos "
+#~ "encantaría saber de usted!"
+
+#~ msgid "Contact us!"
+#~ msgstr "Contacta con nosotros!"
+
+#~ msgid "Guest"
+#~ msgstr "Invitado"
+
+#~ msgid "Register"
+#~ msgstr "Registrar"
+
+#~ msgid ""
+#~ "The BikeMaps.org team will analyze data to determine factors that "
+#~ "influence cycling safety. We also have plans to build tools to help "
+#~ "people plan safer routes and to transfer these to planners in your area."
+#~ msgstr ""
+#~ "El equipo de BikeMaps.org analizará los datos para determinar los "
+#~ "factores que influyen en la seguridad del ciclismo. También tenemos "
+#~ "planes de crear herramientas para ayudar a las personas a planificar "
+#~ "rutas más seguras y transferirlas a los planificadores de su área."
+
+#~ msgid ""
+#~ "By <a href=\"%(register_anchor)s\">registering</a> and <a href="
+#~ "\"%(login_anchor)s\">logging in</a> you will be able to trace a riding or "
+#~ "management region of interest using the %(polygon_icon)s tool. Each time "
+#~ "you login you will be alerted to recent mapping in your region by the "
+#~ "%(bell_icon)s tool."
+#~ msgstr ""
+#~ "Al <a href=\"%(register_anchor)s\">registrarse</a> e <a href="
+#~ "\"%(login_anchor)s\">iniciar sesión</a>, podrá rastrear una región de "
+#~ "conducción o manejo de interés utilizando la %(polygon_icon)s "
+#~ "herramienta. Cada vez que inicie sesión, la %(bell_icon)s herramienta lo "
+#~ "alertará sobre el mapeo reciente en su región."
+
+#~ msgid ""
+#~ "Email us at <a href=\"mailto:info@bikemaps.org\">info@bikemaps.org</a> "
+#~ "with details about the time and location of your report and we will move "
+#~ "it."
+#~ msgstr ""
+#~ "Envíenos un correo electrónico a <a href=\"mailto:info@bikemaps.org"
+#~ "\">info@bikemaps.org</a> con detalles sobre la hora y la ubicación de su "
+#~ "informe y lo trasladaremos."
+
+#~ msgid ""
+#~ "Strava labs estimates that 40% of its rider data are commuter traffic, "
+#~ "though this likely varies by region."
+#~ msgstr ""
+#~ "Strava Labs estima que el 40% de los datos de sus pasajeros son tráfico "
+#~ "de pasajeros, aunque esto probablemente varía según la región."
+
+#~ msgid "Do you have an App?"
+#~ msgstr "¿Tienes una aplicación?"
+
+#~ msgid ""
+#~ "Yes! We have both an %(app_store_link)siOS app%(link_end)s and an "
+#~ "%(play_store_link)sAndroid app%(link_end)s."
+#~ msgstr ""
+#~ "¡Si! Tenemos tanto una aplicación para %(app_store_link)siOS%(link_end)s "
+#~ "como una aplicación para %(play_store_link)sAndroid%(link_end)s."
+
+#~ msgid "Do you have a video tutorial?"
+#~ msgstr "¿Tienes un video tutorial?"
+
+#~ msgid ""
+#~ "Yes! Here’s a %(bikemaps_video_link)slink to a video%(link_end)s that one "
+#~ "of our followers made."
+#~ msgstr ""
+#~ "¡Si! Aquí hay un %(bikemaps_video_link)senlace a un video%(link_end)s que "
+#~ "hizo uno de nuestros seguidores."
+
+#~ msgid "Publications"
+#~ msgstr "Publicaciones"
+
+#~ msgid ""
+#~ "Check out our published work for a more in depth description of our "
+#~ "project"
+#~ msgstr ""
+#~ "Consulte nuestro trabajo publicado para obtener una descripción más "
+#~ "detallada de nuestro proyecto."
+
+#~ msgid "Partners"
+#~ msgstr "Socios"
+
+#~ msgid "Supporters"
+#~ msgstr "Partidarios"
+
+#~ msgid "Team"
+#~ msgstr "Equipo"
+
+#~ msgid "Disclaimer"
+#~ msgstr "Descargo de responsabilidad"
+
+msgctxt "close window button"
+msgid "Close"
+msgstr "Cerrar"
+
+msgid "BikeMaps.org makes no representations, express or implied, as to the accuracy, completeness and timeliness of the information, maps, and data contained herein. Conclusions drawn or decisions made from the information provided on BikeMaps.org are the responsibility of the user. BikeMaps.org assumes no responsibility for its use."
+msgstr "BikeMaps.org no hace representaciones, expresas o implícitas, en cuanto a la precisión, integridad y actualidad de la información, mapas y datos contenidos en este documento. Las conclusiones extraídas o las decisiones tomadas a partir de la información proporcionada en BikeMaps.org son responsabilidad del usuario. BikeMaps.org no asume ninguna responsabilidad por su uso."
+
+msgid "required"
+msgstr "necesario"
+
+#~ msgid "Place me where the incident, hazard, or theft occurred."
+#~ msgstr "Colóqueme donde ocurrió el incidente, peligro o robo."
+
+#~ msgid "Search for an address"
+#~ msgstr "Busca una dirección"
+
+#~ msgid "Add a new marker."
+#~ msgstr "Agregar un nuevo marcador."
+
+#~ msgid "more"
+#~ msgstr "más"
+
+#~ msgid "less"
+#~ msgstr "menos"
+
+#~ msgid "Please select your sex"
+#~ msgstr "Por favor selecciona tu sexo"
+
+#~ msgid "Near Miss Details"
+#~ msgstr "Detalles de la casi accidente"
+
+#~ msgid "What kind of report is this?"
+#~ msgstr "¿Qué tipo de informe es este?"
+
+#~ msgid "When was the incident?"
+#~ msgstr "¿Cuándo fue el incidente?"
+
+#~ msgid "Zoom in"
+#~ msgstr "Aumentar el zoom"
+
+#~ msgid "Zoom out"
+#~ msgstr "Disminuir el zoom"
+
+msgid "Submit a new report"
+msgstr "Enviar un nuevo informe"
+
+msgid "I have read and understand the <a href='%(terms_url)s' target=_blank> terms and conditions"
+msgstr "He leído y entendido los <a href='%(terms_url)s' target=_blank> términos y condiciones"
+
+msgid "Why are we asking for personal details?"
+msgstr "¿Por qué pedimos datos personales?"
+
+msgid "Personal details such as age and gender are routinely collected in health research including studies examining cycling injuries (e.g., Cripton et al. 2015). In addition, details such as rider experience and gender have been shown to be important predictors of cycling safety and risk (Beck et al. 2007). The goal of BikeMaps.org is to gather more comprehensive data to better assess cycling safety and risk. Providing personal details will allow us to more accurately fill in these data gaps."
+msgstr "Los datos personales, como la edad y el sexo, se recopilan de forma rutinaria en investigaciones de salud, incluidos estudios que examinan lesiones en bicicleta (por ejemplo, Cripton et al.2015). Además, se ha demostrado que detalles como la experiencia del conductor y el género son predictores importantes de la seguridad y el riesgo del ciclismo (Beck et al. 2007). El objetivo de BikeMaps.org es reunir datos más completos para evaluar mejor la seguridad y el riesgo del ciclismo. Proporcionar datos personales nos permitirá completar con mayor precisión estos vacíos de datos."
+
+msgid "Trisalyn founded BikeMaps.org while heading the Spatial Pattern Analysis and Research (SPAR) Lab in the Department of Geography at the University of Victoria. Now, at Arizona State University, she is the Director of the School of Geographical Sciences and Urban Planning. As a mom and an avid cyclist, Trisalyn sees BikeMaps.org contributing to even safer cycling conditions, which will ultimately lead to more people biking."
+msgstr "Trisalyn fundó BikeMaps.org mientras dirigía el Laboratorio de Análisis e Investigación de Patrones Espaciales (SPAR) en el Departamento de Geografía de la Universidad de Victoria. Ahora, en la Universidad Estatal de Arizona, es directora de la Facultad de Ciencias Geográficas y Planificación Urbana. Como madre y ávida ciclista, Trisalyn ve que BikeMaps.org contribuye a condiciones de ciclismo aún más seguras, lo que finalmente conducirá a más personas en bicicleta."
+
+msgid "Founder of BikeMaps.org"
+msgstr "Fundadora de BikeMaps.org"
+
+msgid "Metro Vancouver Research Lead"
+msgstr "Jefe de investigación de Metro Vancouver"
+
+msgid "Executive Director"
+msgstr "Directora ejecutiva"
+
+msgid "Karen has been part of the BikeMaps.org team since the project began in 2014. She has managed many aspects of the project and has been heavily involved in community outreach and engagement. Prior to the creation of BikeMaps.org, Karen worked at SPAR Lab on a wide variety of research projects. In her personal life, Karen has gained considerable experience volunteering on numerous boards that support amateur sports or community initiatives. In addition to being mom to a bike-crazy family, Karen can be found running the trails around Victoria."
+msgstr "Karen ha sido parte del equipo de BikeMaps.org desde que comenzó el proyecto en 2014. Ella ha manejado muchos aspectos del proyecto y ha estado muy involucrada en el alcance y participación de la comunidad. Antes de la creación de BikeMaps.org, Karen trabajó en SPAR Lab en una amplia variedad de proyectos de investigación. En su vida personal, Karen ha adquirido una considerable experiencia como voluntaria en numerosas juntas que apoyan los deportes aficionados o las iniciativas comunitarias. Además de ser madre de una familia loca por las bicicletas, se puede encontrar a Karen corriendo por los senderos alrededor de Victoria."
+
+msgid "Post-Doctoral Research Associate"
+msgstr "Investigador Postdoctoral Asociado"
+
+msgid "Colin uses traditional and emerging geographic data to better understand people and their environments. A long-time city and mountain biker, Colin is happy to be part of the BikeMaps.org team as a developer and researcher because it combines his favorite things: maps, apps, people, and bikes!"
+msgstr "Colin utiliza datos geográficos tradicionales y emergentes para comprender mejor a las personas y sus entornos. Colin, un ciclista de la ciudad y la montaña desde hace mucho tiempo, se complace en formar parte del equipo BikeMaps.org como desarrollador e investigador porque combina sus cosas favoritas: mapas, aplicaciones, personas y bicicletas."
+
+msgid "Assistant Research Professor"
+msgstr "Profesora asistente de investigación"
+
+msgid "Rebecca is a recognized cycling safety expert. Her research found that near misses significantly impact perceived safety while cycling, underscoring the need to collect and better understand this data. As a multi-modal traveler and the mother of two burgeoning cyclists, she cares deeply about improving cycling safety to enable society to reap the health, mobility, and environmental benefits that a safe and complete bicycling network can bring."
+msgstr "Rebecca es una reconocida experta en seguridad ciclista. Su investigación descubrió que los accidentes cercanos impactan significativamente la seguridad percibida durante el ciclismo, lo que subraya la necesidad de recopilar y comprender mejor estos datos. Como viajera multimodal y madre de dos ciclistas en ciernes, se preocupa profundamente por mejorar la seguridad del ciclismo para permitir a la sociedad cosechar los beneficios para la salud, la movilidad y el medio ambiente que puede brindar una red de ciclismo segura y completa."
+
+msgid "Communication and Outreach, Metro Vancouver"
+msgstr "Comunicación y divulgación, Metro Vancouver"
+
+msgid "Moreno joined the BikeMaps team in Fall of 2015. He is based in Vancouver and helps coordinate BikeMaps.org promotion and community outreach efforts in the region. A graduate of SFU’s Faculty of Health Sciences, Moreno completed his thesis research on the impending Vancouver public bike share system. Moreno views cycling as a solution to many health, social, and environmental problems, and as the centrepiece of a more sustainable, egalitarian, and inclusive society."
+msgstr "Moreno se unió al equipo de BikeMaps en el otoño de 2015. Tiene su sede en Vancouver y ayuda a coordinar la promoción de BikeMaps.org y los esfuerzos de alcance comunitario en la región. Graduado de la Facultad de Ciencias de la Salud de SFU, Moreno completó su investigación de tesis sobre el inminente sistema público de bicicletas públicas de Vancouver. Moreno ve el ciclismo como una solución a muchos problemas de salud, sociales y ambientales, y como la pieza central de una sociedad más sostenible, igualitaria e inclusiva."
+
+msgid "Research Assistant"
+msgstr "Asistente de investigación"
+
+msgid "Jaimy joined the BikeMaps team in 2016. She is currently pursuing her MSc with Dr. Meghan Winters at Simon Fraser University. As part of her work, Jaimy will be looking at the link between investment in All Ages and Abilities (AAA) bicycle infrastructure and ridership and safety outcomes. Her work is part of the larger Impacts of Bicycle Infrastructure in Mid-Sized Cities project, and through it she’ll be advancing skills in predictive modelling and spatial analysis approaches to model bicycling exposure and safety."
+msgstr "Jaimy se unió al equipo de BikeMaps en 2016. Actualmente está cursando su maestría con la Dra. Meghan Winters en la Universidad Simon Fraser. Como parte de su trabajo, Jaimy analizará el vínculo entre la inversión en infraestructura para bicicletas All Ages and Abilities (AAA) y los resultados de seguridad y uso de los pasajeros. Su trabajo es parte del proyecto Impactos más grandes de la infraestructura de bicicletas en ciudades de tamaño medio, y a través de él avanzará habilidades en modelos predictivos y enfoques de análisis espacial para modelar la exposición y seguridad en bicicleta."
+
+msgid "Daniel Fuller is a Canada Research Chair in Population Physical Activity in the School of Human Kinetics and Recreation at Memorial University. His research is focused on using wearable technologies to study physical activity, transportation interventions, and equity in urban spaces. Dan has an MSc in Kinesiology from the University of Saskatchewan, a PhD in Public Health from Université de Montréal. Dan is the Principal Investigator on the INTERACT team and Neighbourhood Factors Team co-lead of the Canadian Urban Environmental Health (CANUE) Research Consortium. He spends free time chasing his two rambunctious kids, and relives his youth playing recreational basketball on Mondays and Wednesdays."
+msgstr "Daniel Fuller es catedrático de investigación de Canadá en actividad física de la población en la Escuela de Cinética y Recreación Humana de la Universidad Memorial. Su investigación se centra en el uso de tecnologías portátiles para estudiar la actividad física, las intervenciones de transporte y la equidad en los espacios urbanos. Dan tiene una maestría en kinesiología de la Universidad de Saskatchewan, un doctorado en salud pública de la Universidad de Montreal. Dan es el investigador principal del equipo INTERACT y co-líder del Equipo de Factores Vecinos del Consorcio de Investigación de Salud Ambiental Urbana Canadiense (CANUE). Pasa el tiempo libre persiguiendo a sus dos niños traviesos y revive a su juventud jugando baloncesto recreativo los lunes y miércoles."
+
+msgid "Jonathan is a Masters Student at Memorial University of Newfoundland in the Walkabilly Lab, sharing the mission of a physically active Canadian Population. Having been on wheels since his earliest ages, he is passionate about cycling culture, safety and efficacy. Being a part of BikeMaps provides a unique research opportunity to improve bike culture and help more people ride bikes (safely) than ever before."
+msgstr "Jonathan es un estudiante de maestría en la Memorial University of Newfoundland en Walkabilly Lab, y comparte la misión de una población canadiense físicamente activa. Después de haber estado sobre ruedas desde sus primeros años, es un apasionado de la cultura, la seguridad y la eficacia del ciclismo. Ser parte de BikeMaps brinda una oportunidad de investigación única para mejorar la cultura de las bicicletas y ayudar a más personas a andar en bicicleta (de manera segura) que nunca antes."
+
+msgid "PhD. Student"
+msgstr "Doctor. Estudiante"
+
+msgid "Michael is a recent SPAR Lab graduate and currently a PhD student at the Faculty of Health Sciences at Simon Fraser University. As a part of his PhD, Michael will be using data collected on BikeMaps.org to investigate the link between active transport, health and safety. Michael is looking forward to leveraging the power of crowd-sourced data in order to better understand cycling safety."
+msgstr "Michael se graduó recientemente de SPAR Lab y actualmente es estudiante de doctorado en la Facultad de Ciencias de la Salud de la Universidad Simon Fraser. Como parte de su doctorado, Michael utilizará los datos recopilados en BikeMaps.org para investigar el vínculo entre el transporte activo, la salud y la seguridad. Michael espera aprovechar el poder de los datos de origen público para comprender mejor la seguridad del ciclismo."
+
+msgid "ASU BikeMaps Promoter"
+msgstr "Promotor de ASU BikeMaps"
+
+msgid "Syera Torain is a current undergraduate student at Arizona State University (ASU) pursuing a degree in Urban Planning, with a minor in Mandarin Chinese and a certificate in geographical information systems. After graduation, she will move on to graduate school as a part of the accelerated masters program for urban planning with a focus in transportation. She is interested in traveling to transit-friendly cities abroad to research the relationship between public transportation utilization and the urban landscape. For BikeMaps, she focuses on promotion and marketing to raise awareness of BikeMaps for ASU students and Tempe residents. Through participating in public events, distributing promotional materials, and posting on social media, she hopes to excite the community about working together to make biking safer! In her spare time, Syera tries to stay as active as possible, spending ample time walking outdoors, exercising, and at learning choreography with the on-campus Korean Pop dance club."
+msgstr "Syera Torain es una estudiante actual de pregrado en la Universidad Estatal de Arizona (ASU) que busca un título en Planificación Urbana, con una especialización en chino mandarín y un certificado en sistemas de información geográfica. Después de la graduación, pasará a la escuela de posgrado como parte del programa acelerado de maestría para la planificación urbana con un enfoque en el transporte. Está interesada en viajar a ciudades amigables con el tránsito en el extranjero para investigar la relación entre la utilización del transporte público y el paisaje urbano. Para BikeMaps, se centra en la promoción y el marketing para crear conciencia sobre BikeMaps para los estudiantes de ASU y los residentes de Tempe. Al participar en eventos públicos, distribuir materiales promocionales y publicar en las redes sociales, ¡espera entusiasmar a la comunidad por trabajar juntos para hacer que la bicicleta sea más segura! En su tiempo libre, Syera trata de mantenerse lo más activa posible, pasando mucho tiempo caminando al aire libre, haciendo ejercicio y aprendiendo coreografía con el club de baile coreano Pop en el campus."
+
+msgid "TIRF - Chief Operating Officer"
+msgstr "TIRF - Director de Operaciones"
+
+msgid "Ward Vanlaar is the Vice President Research of the Traffic Injury Research Foundation. Ward serves as the lead of the BikeMaps.org research efforts made possible through funding from the Public Health Agency of Canada. Ward specializes in complex evaluation designs and statistical analysis. He believes in 'living healthy by design' and wants to contribute to this goal by making safe cycling more widely available through initiatives like BikeMaps.org."
+msgstr "Ward Vanlaar es Vicepresidente de Investigación de la Traffic Injury Research Foundation. Ward sirve como líder de los esfuerzos de investigación de BikeMaps.org que se hicieron posibles gracias a la financiación de la Agencia de Salud Pública de Canadá. Ward se especializa en diseños de evaluación complejos y análisis estadísticos. Él cree en 'vivir saludablemente por diseño' y quiere contribuir a este objetivo haciendo que el ciclismo seguro esté más ampliamente disponible a través de iniciativas como BikeMaps.org."
+
+msgid "TIRF - Research Associate"
+msgstr "TIRF - Investigador Asociado"
+
+msgid "Dr. Heather Woods-Fry is a Research Associate with the Traffic Injury Research Foundation. Heather serves as a coordinator for the collection of qualitative BikeMaps.org data, and is responsible for analyzing the qualitative data as part of the evaluation of the BikeMaps.org Public Health Agency of Canada research project. Heather believes in living a balanced and active lifestyle, and feels that the accessibility of tools such as BikeMaps.org is essential to promote safe cycling for all Canadians."
+msgstr "La Dra. Heather Woods-Fry es investigadora asociada de la Traffic Injury Research Foundation. Heather sirve como coordinadora para la recopilación de datos cualitativos de BikeMaps.org, y es responsable de analizar los datos cualitativos como parte de la evaluación del proyecto de investigación de la Agencia de Salud Pública de Canadá de BikeMaps.org. Heather cree en vivir un estilo de vida equilibrado y activo, y siente que la accesibilidad de herramientas como BikeMaps.org es esencial para promover el ciclismo seguro para todos los canadienses."
+
+msgid "TIRF - President & CEO"
+msgstr "TIRF - Presidenta y CEO"
+
+msgid "Robyn Robertson is the President & CEO of the Traffic Injury Research Foundation. She is the author of TIRF's knowledge translation model, and spends much of her time working with practitioners and the public to incorporate research findings in operational practices across transportation, criminal justice and health systems. She wants to contribute to the usability of BikeMaps.org data to inform decision-making at all levels to keep cyclists safe."
+msgstr "Robyn Robertson es la presidenta y directora ejecutiva de la Traffic Injury Research Foundation. Es autora del modelo de traducción de conocimientos de TIRF y pasa gran parte de su tiempo trabajando con profesionales y el público para incorporar los resultados de la investigación en prácticas operativas en los sistemas de transporte, justicia penal y salud. Ella quiere contribuir a la usabilidad de los datos de BikeMaps.org para informar la toma de decisiones en todos los niveles para mantener a los ciclistas seguros."
+
+msgid "Developer"
+msgstr "Desarrollador"
+
+msgid "Darren completed his MSc in the SPAR lab in 2017. He continues his involvement with BikeMaps maintaining the website and mobile apps. When not coding away, Darren enjoys mountain biking, skiing and hiking."
+msgstr "Darren completó su maestría en el laboratorio SPAR en 2017. Continúa su participación en BikeMaps manteniendo el sitio web y las aplicaciones móviles. Cuando no está codificando, Darren disfruta del ciclismo de montaña, el esquí y el senderismo."
+
+msgid "Conner completed his BSc. in Geomatics at the University of Victoria. He enjoys programming, cartography, and understanding spatial and aspatial relationships. Conner enjoys surfing and camping. Conner is now working at Lattitude Geographics."
+msgstr "Conner completó su BSc. en Geomática en la Universidad de Victoria. Le gusta la programación, la cartografía y la comprensión de las relaciones espaciales y espaciales. A Conner le gusta surfear y acampar. Conner ahora está trabajando en Lattitude Geographics."
+
+msgid "After completing a postdoctoral fellowship at Arizona State University, Calvin joined Lime as a Policy Research Manager in 2018."
+msgstr "Después de completar una beca posdoctoral en la Universidad Estatal de Arizona, Calvin se unió a Lime como Gerente de Investigación de Políticas en 2018."
+
+msgid "Alumni, Developer"
+msgstr "Alumnos, Desarrollador"
+
+msgid "Alumni"
+msgstr "Alumnos"
+
+msgid "A graduate of the Geomatics program at the University of Victoria, Taylor is the developer behind the BikeMaps website. Taylor worked at the Hakai Institute in Victoria, and he is currently pursuing graduate studies at the University of Waterloo."
+msgstr "Graduado del programa de Geomática en la Universidad de Victoria, Taylor es el desarrollador detrás del sitio web BikeMaps. Taylor trabajó en el Instituto Hakai en Victoria, y actualmente está cursando estudios de posgrado en la Universidad de Waterloo."
+
+msgid "Ben was BikeMaps.org’s first graduate student and was instrumental in the successful outreach in the early days of BikeMaps.org. For his MSc research, Ben compared ridership data collected manually to those using crowdsourced apps such as Strava (http://bit.ly/2af2Cpc). Ben’s research also used data collected on BikeMaps.org to study incidents at multiuse trail and road intersections."
+msgstr "Ben fue el primer estudiante graduado de BikeMaps.org y fue instrumental en la exitosa divulgación en los primeros días de BikeMaps.org. Para su investigación de maestría, Ben comparó los datos de pasajeros recopilados manualmente con los que usan aplicaciones de crowdsourcing como Strava (http://bit.ly/2af2Cpc). La investigación de Ben también utilizó datos recopilados en BikeMaps.org para estudiar incidentes en senderos de múltiples usos y en intersecciones de carreteras."
+
+msgid "Citizen Based Web-Mapping of Bike Collisions and Near Misses (BikeMaps.org)"
+msgstr "Mapa web basado en el ciudadano de colisiones de bicicletas y casi desaparecidos (BikeMaps.org)."
+
+msgid "As part of a UVic research project, we are interested in obtaining information regarding your cycling experiences. In particular we would like to know about any incidents that you have had. The data collected is completely anonymous. The survey should take approximately 5 minutes."
+msgstr "Como parte de un proyecto de investigación de la UVic, estamos interesados ​​en obtener información sobre tus experiencias de ciclismo. En particular, nos gustaría saber sobre cualquier incidente que hayas tenido. Los datos recolectados son completamente anónimos. La encuesta debe tomar aproximadamente 5 minutos."
+
+msgid "By adding a geographic marker onto this website and answering questions, you are consenting to participate in a study conducted by researchers from the Spatial Pattern Analysis and Research (SPAR) Lab in the Department of Geography at the University of Victoria. All information gathered will be completely anonymous. Volunteers must be 13 years of age or older to participate. Parents or guardians may log the details for participants under the age of 13. Please be advised that once a volunteer participant has submitted their survey, it is impossible to withdraw this data at a later date given that it is fully anonymous. Also, the data may be used in additional future studies. Please be aware that data provided in this study could be linked to data collected in other studies (for e.g., hospital ER intake surveys)."
+msgstr "Al agregar un marcador geográfico a este sitio web y responder preguntas, aceptas participar en un estudio realizado por investigadores del Laboratorio de Análisis e Investigación de Patrones Espaciales (SPAR) en el Departamento de Geografía de la Universidad de Victoria. Toda la información recopilada será completamente anónima. Los voluntarios deben ser mayores de 13 años para participar. Los padres o tutores pueden registrar los detalles de los participantes menores de 13 años. Ten en cuenta que una vez que un participante voluntario haya enviado su encuesta, es imposible retirar esta información en una fecha posterior, ya que es totalmente anónima. Además, los datos se pueden utilizar en futuros estudios adicionales. Ten en cuenta que los datos proporcionados en este estudio podrían estar vinculados a los datos recopilados en otros estudios (por ejemplo, encuestas de ingreso a la sala de emergencias)."
+
+msgid "The data collected from this research will enable SPAR Lab researchers and graduate students to study the patterns of bike collisions and near misses in various municipalities including the Capital Regional District and Vancouver (BC, Canada). Understanding the geographical patterns to risk for cyclists will enable better decisions to be made regarding future transportation plans for each region."
+msgstr "Los datos recopilados a partir de esta investigación permitirán a los investigadores y estudiantes de posgrado del SPAR Lab estudiar los patrones de colisiones de bicicletas y casi accidentes en varios municipios, incluido el Distrito Regional de la capital y Vancouver (BC, Canadá). La comprensión de los patrones geográficos de riesgo para los ciclistas permitirá tomar mejores decisiones con respecto a los planes de transporte futuros para cada región."
+
+msgid "Funding for this research project has been provided by NSERC Engage and Mitacs grants to Dr. Trisalyn Nelson. Other project partners providing in kind support include: the Captial Regional District (CRD); Pedalheads; KidicalMassyyj; the Canadian Automobile Association; Bunt and Associates; Strava.com; and the Traffic Injury Research Foundation (TIRF). If you have any questions regarding this research, please contact Dr. Trisalyn Nelson, "
+msgstr "El financiamiento para este proyecto de investigación ha sido proporcionado por un fondo de la NSERC Engage y Mitacs al Dr. Trisalyn Nelson. Otros socios del proyecto que brindan apoyo en especie incluyen: el Distrito Regional Capital (CRD); Cabeza de pedal; KidicalMassyyj; la Asociación Canadiense de Automóviles; Bunt y Asociados; Strava.com; y la Fundación de Investigación de Lesiones de Tráfico (TIRF). Si tienes alguna pregunta sobre esta investigación, comunícate con el Dr. Trisalyn Nelson, "
+
+msgid "In addition, you may verify the ethical approval of this study, or raise any concerns you might have, by contacting the Human Research Ethics Office at the University of Victoria "
+msgstr "Además, puedes verificar la aprobación ética de este estudio, o plantear cualquier inquietud que puedas tener, comunicándote con la Oficina de Ética en Investigación Humana de la Universidad de Victoria "
+
+msgid "Vanessa is a postdoctoral research associate in the Spatial Analysis Research Center at Arizona State University. She uses her background in geography and remote sensing to develop innovative methods for movement analytics. She is interested in the effects of environmental and sociodemographic factors on active transportation. She is currently working on understanding the effects of weather and pollution on bicycling. An enthusiast of bicycling commuting, Vanessa is thrilled to be part of the team because she believes that BikeMaps.org can help make active transportation safer and even more fun for everyone!"
+msgstr "Vanessa es asociada de investigación posdoctoral en el Centro de Investigación de Análisis Espacial de la Universidad Estatal de Arizona. Ella usa su experiencia en geografía y teledetección para desarrollar métodos innovadores para el análisis de movimiento. Está interesada en los efectos de los factores ambientales y sociodemográficos en el transporte activo. Actualmente está trabajando para comprender los efectos del clima y la contaminación en el ciclismo. Entusiasta de los desplazamientos en bicicleta, Vanessa está encantada de ser parte del equipo porque cree que BikeMaps.org puede ayudar a que el transporte activo sea más seguro e incluso más divertido para todos."
+
+msgid "Privacy Policy"
+msgstr "Política de privacidad"
+
+msgid "<p>BikeMaps built the BikeMaps app as a free app. This SERVICE is provided by BikeMaps at no cost and is intended for use as is.</p>\n\n\t\t<p>This page is used to inform website visitors regarding BikeMaps's policies with the collection, use, and disclosure of Personal Information if anyone decided to use our Service. If you choose to use our Service, then you agree to the collection and use of information in relation with this policy. The Personal Information that we collect are used for providing and improving the Service.</p>\n\n\t\t<p>We will not use or share your information with anyone except as described in this Privacy Policy.</p>\n\n\t\t<p>The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible at BikeMaps, unless otherwise defined in this Privacy Policy.</p>"
+msgstr "<p>BikeMaps creó la aplicación BikeMaps como una aplicación gratuita.</p>\n\n\t\t<p>Este SERVICIO es proporcionado por BikeMaps sin costo y está diseñado para usarse tal cual.</p>\n\n\t\t<p>Esta página se utiliza para informar a los visitantes del sitio web sobre las políticas de BikeMaps con respecto a la recopilación, uso y divulgación de información personal si alguien decide utilizar nuestro Servicio.</p>\n\n\t\t<p>Si elige usar nuestro Servicio, entonces acepta la recopilación y el uso de información en relación con esta política.</p>\n\n\t\t<p>La información personal que recopilamos se utiliza para proporcionar y mejorar el Servicio. No utilizaremos ni compartiremos su información con nadie, excepto como se describe en esta Política de privacidad. Los términos utilizados en esta Política de privacidad tienen el mismo significado que en nuestros Términos y condiciones, a los que se puede acceder en BikeMaps, a menos que se defina lo contrario en esta Política de privacidad.</p>"
+
+msgid "For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to your email address. The information that we request is will be retained by us and used as described in this privacy policy."
+msgstr "Para una mejor experiencia al usar nuestro Servicio, es posible que le solicitemos que nos brinde cierta información de identificación personal, que incluye, entre otros, su dirección de correo electrónico. La información que solicitamos será retenida por nosotros y utilizada como se describe en esta política de privacidad."
+
+msgid "We want to inform you that whenever you use our Service, in case of an error in the app we collect data and information (through third party products) on your phone called Log Data. This Log Data may include information such as your devices’s Internet Protocol (\"IP\") address, device name, operating system version, configuration of the app when utilising our Service, the time and date of your use of the Service, and other statistics."
+msgstr "Queremos informarle que cada vez que utiliza nuestro Servicio, en caso de un error en la aplicación, recopilamos datos e información (a través de productos de terceros) en su teléfono llamados Datos de registro. Estos Datos de registro pueden incluir información como la dirección del Protocolo de Internet (\"IP\") de sus dispositivos, el nombre del dispositivo, la versión del sistema operativo, la configuración de la aplicación al utilizar nuestro Servicio, la hora y la fecha de uso del Servicio y otras estadísticas."
+
+msgid "Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory."
+msgstr "Las cookies son archivos con una pequeña cantidad de datos que se usa comúnmente como un identificador único anónimo. Estos se envían a su navegador desde el sitio web que visita y se almacenan en la memoria interna de sus dispositivos."
+
+msgid "This Services does not uses these \"cookies\" explicitly. However, the app may use third party code and libraries that use \"cookies\" to collection information and to improve their services. You have the option to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service."
+msgstr "Este Servicio no utiliza estas \"cookies\" explícitamente. Sin embargo, la aplicación puede usar código de terceros y bibliotecas que usan \"cookies\" para recopilar información y mejorar sus servicios. Tiene la opción de aceptar o rechazar estas cookies y saber cuándo se envía una cookie a su dispositivo. Si elige rechazar nuestras cookies, es posible que no pueda usar algunas partes de este Servicio."
+
+msgid "We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose."
+msgstr "Queremos informar a los usuarios de este Servicio que estos terceros tienen acceso a su Información personal. El motivo es realizar las tareas que se les asignan en nuestro nombre. Sin embargo, están obligados a no divulgar ni utilizar la información para ningún otro propósito."
+
+msgid "We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security."
+msgstr "Valoramos su confianza en proporcionarnos su información personal, por lo tanto, nos esforzamos por utilizar medios comercialmente aceptables para protegerla. Pero recuerde que ningún método de transmisión por Internet o método de almacenamiento electrónico es 100% seguro y confiable, y no podemos garantizar su seguridad absoluta."
+
+msgid "This Service may contain links to other sites. If you click on a third-party link, you will be directed to that site. Note that these external sites are not operated by us. Therefore, I strongly advise you to review the Privacy Policy of these websites. We have no control over, and assume no responsibility for the content, privacy policies, or practices of any third-party sites or services."
+msgstr "Este servicio puede contener enlaces a otros sitios. Si hace clic en un enlace de un tercero, será dirigido a ese sitio. Tenga en cuenta que estos sitios externos no son operados por nosotros. Por lo tanto, le recomiendo que revise la Política de privacidad de estos sitios web. No tenemos control ni asumimos ninguna responsabilidad por el contenido, las políticas de privacidad o las prácticas de sitios o servicios de terceros."
+
+msgid "This Services does not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, We immediately delete this from our servers. If you are a parent or guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to take necessary actions."
+msgstr "Este Servicio no se dirige a ninguna persona menor de 13 años. No recopilamos a sabiendas información personal identificable de niños menores de 13 años. En el caso de que descubramos que un niño menor de 13 años nos ha proporcionado información personal, la eliminamos de inmediato de nuestros servidores. Si usted es padre o tutor y sabe que su hijo nos ha proporcionado información personal, contáctenos para que podamos tomar las medidas necesarias."
+
+msgid "We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page."
+msgstr "Podemos actualizar nuestra Política de privacidad de vez en cuando. Por lo tanto, se recomienda que revise esta página periódicamente en busca de cambios. Le notificaremos cualquier cambio publicando la nueva Política de privacidad en esta página. Estos cambios son efectivos inmediatamente, después de que se publiquen en esta página."
+
+msgid "If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us."
+msgstr "Si tiene alguna pregunta o sugerencia sobre nuestra Política de privacidad, no dude en contactarnos."
+
+msgid "This Privacy Policy page was created at "
+msgstr "Esta página de Política de privacidad fue creada en "
+
+msgid "Information Collection and Use"
+msgstr "Recolección de información y uso"
+
+msgid "Log Data"
+msgstr "Dato de registro"
+
+msgid "Service Providers"
+msgstr "Proveedores de servicio"
+
+msgid "Security"
+msgstr "Seguridad"
+
+msgid "Links to Other Sites"
+msgstr "Enlaces a otros sitios"
+
+msgid "Children’s Privacy"
+msgstr "Privacidad de los niños"
+
+msgid "Changes to This Privacy Policy"
+msgstr "Cambios a esta política de privacidad"
+
+msgid "Contact Us"
+msgstr "Contacta con nosotros"
+
+msgid "Visualization"
+msgstr "Visualización"

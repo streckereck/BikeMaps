@@ -1,0 +1,2644 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: BikeMapsApp\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-02-16 15:22-0700\n"
+"Language: es\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: POEditor.com\n"
+
+#: .\mapApp\forms\contact.py:13
+msgid "Email"
+msgstr "Email"
+
+#: .\mapApp\forms\contact.py:15
+#, fuzzy
+#| msgid "Search for an address"
+msgid "Enter your email address"
+msgstr "Busca una dirección"
+
+#: .\mapApp\forms\contact.py:19
+msgid "Subject"
+msgstr ""
+
+#: .\mapApp\forms\contact.py:22
+msgid "What's this about?"
+msgstr ""
+
+#: .\mapApp\forms\contact.py:26
+msgid "Message"
+msgstr ""
+
+#: .\mapApp\forms\contact.py:28
+msgid "Your message here"
+msgstr ""
+
+#: .\mapApp\forms\contact.py:32
+msgid "Send myself a copy"
+msgstr ""
+
+#: .\mapApp\forms\hazard.py:12 .\mapApp\forms\incident.py:12
+#: .\mapApp\forms\nearmiss.py:12 .\mapApp\forms\theft.py:12
+msgid "Why are we asking for personal details?"
+msgstr ""
+
+#: .\mapApp\forms\hazard.py:14 .\mapApp\forms\incident.py:14
+#: .\mapApp\forms\nearmiss.py:14 .\mapApp\forms\theft.py:14
+msgid ""
+"Personal details such as age and gender are routinely collected in health "
+"research including studies examining cycling injuries (e.g., Cripton et al. "
+"2015). In addition, details such as rider experience and gender have been "
+"shown to be important predictors of cycling safety and risk (Beck et al. "
+"2007). The goal of BikeMaps.org is to gather more comprehensive data to "
+"better assess cycling safety and risk. Providing personal details will allow "
+"us to more accurately fill in these data gaps."
+msgstr ""
+
+#: .\mapApp\forms\hazard.py:25
+msgid "Hazard Details"
+msgstr "Detalles del peligro"
+
+#: .\mapApp\forms\hazard.py:30 .\mapApp\forms\incident.py:37
+#: .\mapApp\forms\nearmiss.py:37 .\mapApp\forms\theft.py:34
+#, fuzzy
+#| msgid "Required"
+msgid "required"
+msgstr "Necesario"
+
+#: .\mapApp\forms\hazard.py:33 .\mapApp\forms\incident.py:53
+#: .\mapApp\forms\nearmiss.py:53 .\mapApp\forms\theft.py:37
+msgid "Personal Details"
+msgstr "Detalles personales"
+
+#: .\mapApp\forms\hazard.py:61 .\mapApp\forms\incident.py:80
+#: .\mapApp\forms\nearmiss.py:80 .\mapApp\forms\theft.py:64
+msgid "The date can't be in the future."
+msgstr ""
+
+#: .\mapApp\forms\hazard.py:64
+msgid "Incidents must have occurred within the past year."
+msgstr ""
+
+#: .\mapApp\forms\incident.py:25
+msgid "Collision Details"
+msgstr "Detalles de la colisión"
+
+#: .\mapApp\forms\incident.py:40 .\mapApp\forms\nearmiss.py:40
+msgid "Conditions"
+msgstr "Condiciones"
+
+#: .\mapApp\forms\incident.py:83 .\mapApp\forms\nearmiss.py:83
+#: .\mapApp\forms\theft.py:67
+msgid "Incidents must have occurred within the past two years."
+msgstr ""
+
+#: .\mapApp\forms\nearmiss.py:25
+msgid "Near Miss Details"
+msgstr "Detalles de la casi accidente"
+
+#: .\mapApp\forms\newInfrastructure.py:19
+#, fuzzy
+#| msgid "New infrastructure"
+msgid "New Infrastructure Details"
+msgstr "Nueva infraestructura"
+
+#: .\mapApp\forms\theft.py:25
+msgid "Theft Details"
+msgstr "Detalles de robo"
+
+#: .\mapApp\models\alert_area.py:29 .\mapApp\models\alert_notification.py:22
+msgid "user"
+msgstr ""
+
+#: .\mapApp\models\alert_area.py:51
+msgid "users"
+msgstr ""
+
+#: .\mapApp\models\alert_notification.py:15
+#, fuzzy
+#| msgid "Incidents"
+msgid "Incident"
+msgstr "Incidente"
+
+#: .\mapApp\models\alert_notification.py:16 .\mapApp\models\incident.py:23
+#: .\mapApp\models\incident.py:360
+#: .\mapApp\templates\mapApp\incident_form.html:19
+msgid "Near miss"
+msgstr "Casi accdiente"
+
+#: .\mapApp\models\alert_notification.py:17
+#: .\mapApp\templates\mapApp\incident_form.html:20
+msgid "Hazard"
+msgstr "Peligro"
+
+#: .\mapApp\models\alert_notification.py:18
+#: .\mapApp\templates\mapApp\incident_form.html:21
+msgid "Theft"
+msgstr "Robo"
+
+#: .\mapApp\models\alert_notification.py:19
+msgid "Undefined"
+msgstr ""
+
+#: .\mapApp\models\alert_notification.py:62
+#, fuzzy
+#| msgid "Notifications"
+msgid "alert notification"
+msgstr "Notificaciones"
+
+#: .\mapApp\models\alert_notification.py:63
+#, fuzzy
+#| msgid "Notifications"
+msgid "alert notifications"
+msgstr "Notificaciones"
+
+#: .\mapApp\models\hazard.py:12 .\mapApp\models\hazard.py:18
+#: .\mapApp\models\incident.py:52 .\mapApp\templates\mapApp\map_legend.html:65
+msgid "Infrastructure"
+msgstr "Infrastructura"
+
+#: .\mapApp\models\hazard.py:13 .\mapApp\models\hazard.py:41
+msgid "Environmental"
+msgstr "Ambiental"
+
+#: .\mapApp\models\hazard.py:14 .\mapApp\models\hazard.py:51
+msgid "Human Behaviour"
+msgstr ""
+
+#: .\mapApp\models\hazard.py:19 .\mapApp\models\incident.py:53
+msgid "Curb"
+msgstr "Borde de la acera"
+
+#: .\mapApp\models\hazard.py:20
+#, fuzzy
+#| msgid "Icelandic"
+msgid "Island"
+msgstr "Islandés"
+
+#: .\mapApp\models\hazard.py:21
+msgid "Train track"
+msgstr "Vías de tren"
+
+#: .\mapApp\models\hazard.py:22 .\mapApp\models\incident.py:55
+msgid "Pothole"
+msgstr "Bache"
+
+#: .\mapApp\models\hazard.py:23
+msgid "Road surface"
+msgstr "Superficie de la calle"
+
+#: .\mapApp\models\hazard.py:24
+msgid "Poor signage"
+msgstr "Mala señalización"
+
+#: .\mapApp\models\hazard.py:25
+msgid "Speed limits"
+msgstr "Límites de velocidad"
+
+#: .\mapApp\models\hazard.py:26
+msgid "Blind corner or turn"
+msgstr "Esquina ciega o vuelta"
+
+#: .\mapApp\models\hazard.py:27
+msgid "Bike lane disappears"
+msgstr "La ciclovía desaparece"
+
+#: .\mapApp\models\hazard.py:28
+msgid "Vehicles entering/exiting roadway"
+msgstr "Vehículos entrando/saliendo de la calzada"
+
+#: .\mapApp\models\hazard.py:29
+msgid "Dooring risk zone"
+msgstr "Zona de riesgo por puertas"
+
+#: .\mapApp\models\hazard.py:30
+msgid "Vehicle use of bike lane"
+msgstr "Uso de vehículos en la ciclovía"
+
+#: .\mapApp\models\hazard.py:31
+msgid "Dangerous intersection"
+msgstr "Intersección peligrosa"
+
+#: .\mapApp\models\hazard.py:32
+msgid "Dangerous vehicle left turn"
+msgstr "Giro a la izquierda de vehículos  peligroso"
+
+#: .\mapApp\models\hazard.py:33
+msgid "Dangerous vehicle right turn"
+msgstr "Giro a la derecha de vehículos  peligroso"
+
+#: .\mapApp\models\hazard.py:34
+msgid "Sensor does not pick up bikes"
+msgstr "El sensor no reconoce bicicletas."
+
+#: .\mapApp\models\hazard.py:35
+msgid "Steep hill - bike speed affected"
+msgstr "Colina empinada - velocidad para bicicletas afectada"
+
+#: .\mapApp\models\hazard.py:36
+msgid "Narrow road"
+msgstr "Camino estrecho"
+
+#: .\mapApp\models\hazard.py:37
+msgid "Pedestrian conflict zone"
+msgstr "Zona de conflicto peatonal"
+
+#: .\mapApp\models\hazard.py:38 .\mapApp\models\hazard.py:48
+#: .\mapApp\models\hazard.py:59
+msgid "Other (Please describe)"
+msgstr "Otro (por favor describe)"
+
+#: .\mapApp\models\hazard.py:42
+msgid "Icy/Snowy"
+msgstr "Helado/Nevado"
+
+#: .\mapApp\models\hazard.py:43
+msgid "Poor visibility (fog, snow, smoke etc.)"
+msgstr ""
+
+#: .\mapApp\models\hazard.py:44
+msgid "Broken glass on road"
+msgstr "Vidrios rotos en el camino"
+
+#: .\mapApp\models\hazard.py:45
+msgid "Wet leaves on road"
+msgstr "Hojas mojadas en el camino"
+
+#: .\mapApp\models\hazard.py:46
+#, fuzzy
+#| msgid "Gravel, rocks, or debris on road"
+msgid "Gravel, rocks or debris on road/path"
+msgstr "Grava, piedras, o escombros en el camino"
+
+#: .\mapApp\models\hazard.py:47
+msgid "Construction"
+msgstr "Construcción"
+
+#: .\mapApp\models\hazard.py:52
+msgid "Poor visibility"
+msgstr "Baja visibilidad"
+
+#: .\mapApp\models\hazard.py:53
+msgid "Parked car"
+msgstr ""
+
+#: .\mapApp\models\hazard.py:54
+msgid "Traffic flow"
+msgstr ""
+
+#: .\mapApp\models\hazard.py:55
+msgid "Driver behaviour"
+msgstr ""
+
+#: .\mapApp\models\hazard.py:56
+#, fuzzy
+#| msgid "Cyclist hazard"
+msgid "Cyclist behaviour"
+msgstr "Peligro para ciclistas"
+
+#: .\mapApp\models\hazard.py:57
+#, fuzzy
+#| msgid "Pedestrian"
+msgid "Pedestrian behaviour"
+msgstr "Peatón"
+
+#: .\mapApp\models\hazard.py:58
+#, fuzzy
+#| msgid "Construction"
+msgid "Congestion"
+msgstr "Construcción"
+
+#: .\mapApp\models\hazard.py:65 .\mapApp\models\incident.py:65
+#: .\mapApp\models\incident.py:119 .\mapApp\models\incident.py:156
+#: .\mapApp\models\theft.py:17 .\mapApp\models\theft.py:22
+#: .\mapApp\models\theft.py:107 .\mapApp\models\theft.py:119
+msgid "Yes"
+msgstr "Si"
+
+#: .\mapApp\models\hazard.py:66 .\mapApp\models\incident.py:72
+#: .\mapApp\models\incident.py:120 .\mapApp\models\incident.py:157
+#: .\mapApp\models\theft.py:18 .\mapApp\models\theft.py:29
+#: .\mapApp\models\theft.py:107 .\mapApp\models\theft.py:119
+msgid "No"
+msgstr "No"
+
+#: .\mapApp\models\hazard.py:67 .\mapApp\models\incident.py:77
+#: .\mapApp\models\incident.py:121 .\mapApp\models\incident.py:132
+#: .\mapApp\models\incident.py:158 .\mapApp\models\theft.py:19
+#: .\mapApp\models\theft.py:57 .\mapApp\models\theft.py:63
+msgid "I don't know"
+msgstr "No lo sé"
+
+#: .\mapApp\models\hazard.py:73
+msgid "Please select the category of hazard you are reporting:"
+msgstr ""
+
+#: .\mapApp\models\hazard.py:81
+msgid "What type of hazard was it?"
+msgstr "¿Qué tipo de peligro era?"
+
+#: .\mapApp\models\hazard.py:90 .\mapApp\models\incident.py:218
+#: .\mapApp\models\theft.py:131
+msgid "Do you bike at least once a week?"
+msgstr "¿Pedaleas al menos una vez a la semana?"
+
+#: .\mapApp\models\hazard.py:105
+msgid "Has this been fixed?"
+msgstr ""
+
+#: .\mapApp\models\incident.py:18
+msgid "Collision"
+msgstr "Colisión"
+
+#: .\mapApp\models\incident.py:19
+msgid "Collision with a stationary object or vehicle"
+msgstr "Colisión con un objeto o vehículo estacionado "
+
+#: .\mapApp\models\incident.py:20
+msgid "Collision with a moving object or vehicle"
+msgstr "Colisión con un objeto o vehículo en movimiento"
+
+#: .\mapApp\models\incident.py:24
+msgid "Near miss with a stationary object or vehicle"
+msgstr "Casi accdiente con un objeto o vehículo estacionado"
+
+#: .\mapApp\models\incident.py:25
+msgid "Near miss with a moving object or vehicle"
+msgstr "Casi accdiente con un objeto o vehículoen movimiento"
+
+#: .\mapApp\models\incident.py:28
+msgid "Fall"
+msgstr "Caída"
+
+#: .\mapApp\models\incident.py:29
+msgid "Lost control and fell"
+msgstr "Perdí el control y me caí."
+
+#: .\mapApp\models\incident.py:34
+msgid "Vehicle"
+msgstr "Vehículo"
+
+#: .\mapApp\models\incident.py:35
+msgid "Head on"
+msgstr "De frente"
+
+#: .\mapApp\models\incident.py:36
+msgid "Side impact"
+msgstr "Impacto lateral"
+
+#: .\mapApp\models\incident.py:37
+msgid "Angle impact"
+msgstr "Ángulo de impacto"
+
+#: .\mapApp\models\incident.py:38
+msgid "Rear end"
+msgstr "Parte trasera"
+
+#: .\mapApp\models\incident.py:39 .\mapApp\models\incident.py:137
+msgid "Turning right"
+msgstr "Girando a la derecha"
+
+#: .\mapApp\models\incident.py:40 .\mapApp\models\incident.py:136
+msgid "Turning left"
+msgstr "Girando a la izquierda"
+
+#: .\mapApp\models\incident.py:41
+msgid "Passing"
+msgstr "Pasando"
+
+#: .\mapApp\models\incident.py:42
+msgid "Open vehicle door"
+msgstr "Puerta de vehículo abierta"
+
+#: .\mapApp\models\incident.py:45
+msgid "Person/animal"
+msgstr "Persona/animal"
+
+#: .\mapApp\models\incident.py:46
+msgid "Another cyclist"
+msgstr "Otro ciclista"
+
+#: .\mapApp\models\incident.py:47
+msgid "Pedestrian"
+msgstr "Peatón"
+
+#: .\mapApp\models\incident.py:48
+msgid "Animal"
+msgstr "Animal"
+
+#: .\mapApp\models\incident.py:49 .\mapApp\models\incident.py:153
+#: .\mapApp\models\incident.py:166
+msgid "E-scooter"
+msgstr "E-scooter"
+
+#: .\mapApp\models\incident.py:54
+msgid "Train Tracks"
+msgstr "Vías de tren"
+
+#: .\mapApp\models\incident.py:56
+msgid "Lane divider"
+msgstr "Divisor de carril"
+
+#: .\mapApp\models\incident.py:57
+msgid "Sign/Post"
+msgstr "Señal/poste"
+
+#: .\mapApp\models\incident.py:58
+msgid "Roadway"
+msgstr "Calzada"
+
+#: .\mapApp\models\incident.py:61 .\mapApp\models\theft.py:49
+msgid "Other (please describe)"
+msgstr "Otro (por favor describe)"
+
+#: .\mapApp\models\incident.py:66
+msgid "Medical treatment not required"
+msgstr "Tratamiento médico."
+
+#: .\mapApp\models\incident.py:67
+msgid "Saw a family doctor"
+msgstr "Acudí con un médico familiar."
+
+#: .\mapApp\models\incident.py:68
+#, fuzzy
+#| msgid "Visited the hospital emergency dept"
+msgid "Visited the hospital emergency dept."
+msgstr "Visité el departamento de urgencias del hospital."
+
+#: .\mapApp\models\incident.py:69
+msgid "Overnight stay in hospital"
+msgstr "Estancia por la noche en el hospital."
+
+#: .\mapApp\models\incident.py:73
+msgid "No injury"
+msgstr "Ninguna herida"
+
+#: .\mapApp\models\incident.py:76
+msgid "Unknown"
+msgstr ""
+
+#: .\mapApp\models\incident.py:83
+msgid "To/from work or school"
+msgstr "Al/desde el trabajo o a la escuela"
+
+#: .\mapApp\models\incident.py:84
+msgid "Exercise or recreation"
+msgstr "Ejercicio o recreación "
+
+#: .\mapApp\models\incident.py:85
+msgid "Social reason (e.g., movies, visit friends)"
+msgstr "Motivo social (por ejemplo, películas, visitas a amigos)."
+
+#: .\mapApp\models\incident.py:86
+msgid "Personal business"
+msgstr "Negocios personales"
+
+#: .\mapApp\models\incident.py:87
+msgid "During work"
+msgstr "Durante el trabajo"
+
+#: .\mapApp\models\incident.py:90
+msgid "Dry"
+msgstr "Seco"
+
+#: .\mapApp\models\incident.py:91
+msgid "Wet"
+msgstr "Mojado"
+
+#: .\mapApp\models\incident.py:92
+msgid "Loose sand, gravel, or dirt"
+msgstr "Arena suelta, grava o tierra"
+
+#: .\mapApp\models\incident.py:93
+msgid "Icy"
+msgstr "Helado"
+
+#: .\mapApp\models\incident.py:94
+msgid "Snowy"
+msgstr "Nevado"
+
+#: .\mapApp\models\incident.py:95 .\mapApp\models\incident.py:109
+#: .\mapApp\models\incident.py:116 .\mapApp\models\incident.py:138
+#: .\mapApp\models\incident.py:188 .\mapApp\models\point.py:58
+msgid "I don't remember"
+msgstr "No me acuerdo"
+
+#: .\mapApp\models\incident.py:98
+msgid "No obstructions"
+msgstr "Sin obstrucciones"
+
+#: .\mapApp\models\incident.py:99
+msgid "View obstructed"
+msgstr "Vista obstruida  "
+
+#: .\mapApp\models\incident.py:100
+msgid "Glare or reflection"
+msgstr "Brillo o reflejo"
+
+#: .\mapApp\models\incident.py:101
+msgid "Obstruction on road"
+msgstr "Obstrucción en la calle"
+
+#: .\mapApp\models\incident.py:102
+#, fuzzy
+#| msgid "I don't remember"
+msgid "Don't Remember"
+msgstr "No me acuerdo"
+
+#: .\mapApp\models\incident.py:105
+msgid "No Lights"
+msgstr "Sin luces"
+
+#: .\mapApp\models\incident.py:106
+msgid "Front and back lights"
+msgstr "Luces delanteras  y traseras"
+
+#: .\mapApp\models\incident.py:107
+msgid "Front lights only"
+msgstr "Solo luces delanteras"
+
+#: .\mapApp\models\incident.py:108
+msgid "Back lights only"
+msgstr "Solo luces traseras"
+
+#: .\mapApp\models\incident.py:113
+msgid "Uphill"
+msgstr "De subiida"
+
+#: .\mapApp\models\incident.py:114
+msgid "Downhill"
+msgstr "De bajada"
+
+#: .\mapApp\models\incident.py:115
+msgid "Flat"
+msgstr "Plano"
+
+#: .\mapApp\models\incident.py:124
+msgid "N"
+msgstr "N"
+
+#: .\mapApp\models\incident.py:125
+msgid "NE"
+msgstr "NE"
+
+#: .\mapApp\models\incident.py:126
+msgid "E"
+msgstr "E"
+
+#: .\mapApp\models\incident.py:127
+msgid "SE"
+msgstr "SE"
+
+#: .\mapApp\models\incident.py:128
+msgid "S"
+msgstr "S"
+
+#: .\mapApp\models\incident.py:129
+msgid "SW"
+msgstr "SO"
+
+#: .\mapApp\models\incident.py:130
+msgid "W"
+msgstr "O"
+
+#: .\mapApp\models\incident.py:131
+msgid "NW"
+msgstr "NW"
+
+#: .\mapApp\models\incident.py:135
+msgid "Heading straight"
+msgstr "En dirección recta"
+
+#: .\mapApp\models\incident.py:141
+msgid "No impact"
+msgstr "Ningún impacto"
+
+#: .\mapApp\models\incident.py:142
+#, fuzzy
+#| msgid "I'm now more careful about where/when/how I bike"
+msgid "I'm now more careful about where/when/how I ride"
+msgstr "Ahora tengo más cuidado de donde/cuando/como ando en bicicleta"
+
+#: .\mapApp\models\incident.py:143
+msgid "I bike less"
+msgstr "Uso menos la bicicleta"
+
+#: .\mapApp\models\incident.py:144
+#, fuzzy
+#| msgid "I'm now more careful about where/when/how I bike AND I bike less"
+msgid "I'm now more careful about where/when/how I ride AND I bike less"
+msgstr ""
+"Ahora tengo más cuidado de donde/cuando/como ando en bicicleta y ando menos"
+
+#: .\mapApp\models\incident.py:145
+msgid "I haven't biked since"
+msgstr "No he andado en bicicleta desde entonces."
+
+#: .\mapApp\models\incident.py:146
+msgid "Too soon to say"
+msgstr "Demasiado pronto para decir"
+
+#: .\mapApp\models\incident.py:147
+msgid "I was not directly involved"
+msgstr "No estuve directamente involucrado(a)."
+
+#: .\mapApp\models\incident.py:150
+msgid "Personal (my own bicycle or a friend's)"
+msgstr "Personal (mi propia bicicleta o la de un amigo/a)"
+
+#: .\mapApp\models\incident.py:151
+msgid "Bike share"
+msgstr "Porgrama de comprartir biciletas"
+
+#: .\mapApp\models\incident.py:152
+msgid "Bike rental"
+msgstr "Bicicleta rentada"
+
+#: .\mapApp\models\incident.py:161
+msgid "Yes, this happened to me"
+msgstr "Si, esto me pasó a mi."
+
+#: .\mapApp\models\incident.py:162
+msgid "No, I witnessed this happen to someone else"
+msgstr "No, yo fui testigo de que esto le sucedió a otra persona."
+
+#: .\mapApp\models\incident.py:165
+msgid "Bicycle"
+msgstr "Bicicleta"
+
+#: .\mapApp\models\incident.py:167
+msgid "I was a pedestrian"
+msgstr "Yo era un peatón"
+
+#: .\mapApp\models\incident.py:168
+msgid "I was driving"
+msgstr "Yo estaba manejando/conduciendo"
+
+#: .\mapApp\models\incident.py:171
+msgid "Busy street"
+msgstr "Calle ocupada"
+
+#: .\mapApp\models\incident.py:172
+msgid "On a cycle track (separated bike lane)"
+msgstr "En una ciclo vía (carril separado para bicis) "
+
+#: .\mapApp\models\incident.py:173
+msgid "On a painted bike lane"
+msgstr "En una ciclovía pintada."
+
+#: .\mapApp\models\incident.py:174 .\mapApp\models\incident.py:179
+#, fuzzy
+#| msgid "On a road with no bike facilities"
+msgid "On a street with no bicycle facility"
+msgstr "En la calle sin instalaciones para bicicletas."
+
+#: .\mapApp\models\incident.py:177
+msgid "Quiet street"
+msgstr "Calle tranquila."
+
+#: .\mapApp\models\incident.py:178
+msgid "On a local street bikeway (bike route)"
+msgstr ""
+
+#: .\mapApp\models\incident.py:182
+msgid "Off-Street"
+msgstr ""
+
+#: .\mapApp\models\incident.py:183
+msgid "On a physically separated bike lane (cycle track)"
+msgstr "En una ciclovía separada fisicamente (pista para biclicletas) "
+
+#: .\mapApp\models\incident.py:184
+#, fuzzy
+#| msgid "On a mixed use trail"
+msgid "On a multi-use path"
+msgstr "En una ciclovía separada fisicamente (pista para biclicletas) "
+
+#: .\mapApp\models\incident.py:185
+#, fuzzy
+#| msgid "On the sidewalk"
+msgid "On a sidewalk"
+msgstr "En la banqueta."
+
+#: .\mapApp\models\incident.py:196
+msgid "What type of incident was it?"
+msgstr "¿Qué tipo de incidente fue?"
+
+#: .\mapApp\models\incident.py:201
+msgid "What sort of object did you collide or nearly collide with?"
+msgstr "¿Con qué tipo de objeto chocaste o casi chocaste?"
+
+#: .\mapApp\models\incident.py:206
+#, fuzzy
+#| msgid "Were you injured?"
+msgid "Were you injured?"
+msgstr "¿Te lastimaste?"
+
+#: .\mapApp\models\incident.py:211
+msgid "What was the purpose of your trip?"
+msgstr "¿Cuál era  el propósito de tu viaje?"
+
+#: .\mapApp\models\incident.py:225
+msgid "Were you wearing a helmet?"
+msgstr "¿Estabas usando un casco?"
+
+#: .\mapApp\models\incident.py:232
+msgid "Were you intoxicated?"
+msgstr "¿Estabas intoxicado?"
+
+#: .\mapApp\models\incident.py:239
+msgid "What were the road conditions?"
+msgstr "¿Cuáles fueron las condiciones de la calle?"
+
+#: .\mapApp\models\incident.py:246
+msgid "How were the sight lines?"
+msgstr "¿Cómo eran las líneas de visión?"
+
+#: .\mapApp\models\incident.py:253
+msgid "Were there cars parked on the roadside"
+msgstr "¿Había autos estacionados en la calle?"
+
+#: .\mapApp\models\incident.py:260
+msgid "Were you using bike lights?"
+msgstr "¿Estabas usando luces de bicicleta?"
+
+#: .\mapApp\models\incident.py:267
+msgid "What was the terrain like?"
+msgstr "¿Cómo era el terreno?"
+
+#: .\mapApp\models\incident.py:274
+msgid "What direction were you heading?"
+msgstr "¿Hacia qué dirección te dirigías?"
+
+#: .\mapApp\models\incident.py:281
+msgid "How were you moving?"
+msgstr "¿Cómo te estabas moviendo?"
+
+#: .\mapApp\models\incident.py:288
+msgid "Did the incident occur at an intersection?"
+msgstr "¿El incidente ocurrió en una intersección?"
+
+#: .\mapApp\models\incident.py:295
+msgid "Was the driver aggressive?"
+msgstr "¿El conductor fue agresivo?"
+
+#: .\mapApp\models\incident.py:302
+msgid "How did this incident impact your bicycling?"
+msgstr "¿Cómo afectó este incidente a tu andar bicicleta?"
+
+#: .\mapApp\models\incident.py:309
+msgid "What type of bicycle were you riding?"
+msgstr "¿Qué tipo de bicicleta estabas usando?"
+
+#: .\mapApp\models\incident.py:317
+msgid "Did the incident involve a pedal-assist electric bike (eBike)?"
+msgstr ""
+"¿El incidente involucró una bicicleta eléctrica asistida por pedales (eBike)?"
+
+#: .\mapApp\models\incident.py:325
+msgid "What were you riding?"
+msgstr "¿En qué ibas viajando?"
+
+#: .\mapApp\models\incident.py:333
+msgid "Were you directly involved in the incident?"
+msgstr "¿Estuviste involucrado(a) de manera directa en el incidente?"
+
+#: .\mapApp\models\incident.py:339
+msgid "Where were you riding your bike?"
+msgstr "¿Dónde estabas montando tu bicicleta?"
+
+#: .\mapApp\models\newInfrastructure.py:19
+#, fuzzy
+#| msgid "What type of incident was it?"
+msgid "What type of new infrastructure is it?"
+msgstr "¿Qué tipo de incidente fue?"
+
+#: .\mapApp\models\newInfrastructure.py:24
+#, fuzzy
+#| msgid "When was the incident?"
+msgid "When was the new infrastructure added?"
+msgstr "¿Cuándo fue el incidente?"
+
+#: .\mapApp\models\newInfrastructure.py:29
+#, fuzzy
+#| msgid "Please give a brief description of the incident"
+msgid "Please give a brief description of the new infrastructure"
+msgstr "Por favor proporciona una breve descripción del incidente"
+
+#: .\mapApp\models\newInfrastructure.py:39
+msgid "When should the new infrastructure icon expire?"
+msgstr ""
+
+#: .\mapApp\models\official.py:14 .\mapApp\models\point.py:68
+#, fuzzy
+#| msgid "Notifications"
+msgid "Location"
+msgstr "Notificaciones"
+
+#: .\mapApp\models\point.py:14
+#, fuzzy
+#| msgid "Collision"
+msgid "collision"
+msgstr "Colisión"
+
+#: .\mapApp\models\point.py:15
+#, fuzzy
+#| msgid "Near miss"
+msgid "nearmiss"
+msgstr "Casi accdiente"
+
+#: .\mapApp\models\point.py:16
+#, fuzzy
+#| msgid "Theft"
+msgid "theft"
+msgstr "Robo"
+
+#: .\mapApp\models\point.py:17
+#, fuzzy
+#| msgid "Hazard"
+msgid "hazard"
+msgstr "Peligro"
+
+#: .\mapApp\models\point.py:18
+#, fuzzy
+#| msgid "Infrastructure"
+msgid "newInfrastructure"
+msgstr "Infrastructura"
+
+#: .\mapApp\models\point.py:19
+msgid "official"
+msgstr ""
+
+#: .\mapApp\models\point.py:30
+msgid "January"
+msgstr "Enero"
+
+#: .\mapApp\models\point.py:31
+msgid "February"
+msgstr "Febrero"
+
+#: .\mapApp\models\point.py:32
+msgid "March"
+msgstr "Marzo"
+
+#: .\mapApp\models\point.py:33
+msgid "April"
+msgstr "Abril"
+
+#: .\mapApp\models\point.py:34
+msgid "May"
+msgstr "Mayo"
+
+#: .\mapApp\models\point.py:35
+msgid "June"
+msgstr "Junio"
+
+#: .\mapApp\models\point.py:36
+msgid "July"
+msgstr "Julio"
+
+#: .\mapApp\models\point.py:37
+msgid "August"
+msgstr "Agosto"
+
+#: .\mapApp\models\point.py:38
+msgid "September"
+msgstr "Septiembre"
+
+#: .\mapApp\models\point.py:39
+msgid "October"
+msgstr "Octubre"
+
+#: .\mapApp\models\point.py:40
+msgid "November"
+msgstr "Noviembre"
+
+#: .\mapApp\models\point.py:41
+msgid "December"
+msgstr "Diciembre"
+
+#: .\mapApp\models\point.py:45
+msgid "Male"
+msgstr "Masculino"
+
+#: .\mapApp\models\point.py:46
+msgid "Female"
+msgstr "Femenino"
+
+#: .\mapApp\models\point.py:47 .\mapApp\models\point.py:57
+msgid "Other"
+msgstr "Otro"
+
+#: .\mapApp\models\point.py:51
+msgid "Directly from the BikeMaps.org team"
+msgstr "Directamente por medio del equipo de BikeMaps.org"
+
+#: .\mapApp\models\point.py:52
+msgid ""
+"BikeMaps.org swag (e.g., seat cover, water bottle, etc.) without meeting the "
+"team"
+msgstr ""
+"Por los promocionales de BikeMaps.org swag (por ejemplo, el protector para "
+"asiento, botella de agua, etc.) sin haber conocido al equipo"
+
+#: .\mapApp\models\point.py:53
+msgid "Traditional media (newspaper, TV, radio)"
+msgstr "Medios tradicionales (periódico, TV, radio)"
+
+#: .\mapApp\models\point.py:54
+msgid "Link from another website"
+msgstr "Vinculo desde otro sitio web"
+
+#: .\mapApp\models\point.py:55
+msgid "Word of mouth"
+msgstr "De boca en boca"
+
+#: .\mapApp\models\point.py:56
+msgid "Social media (e.g., Twitter, Instagram, Facebook)"
+msgstr "Redes sociales (por ejemplo, Twitter, Instagram, Facebook)"
+
+#: .\mapApp\models\point.py:63
+msgid "Date reported"
+msgstr ""
+
+#: .\mapApp\models\point.py:72
+msgid "When was the incident?"
+msgstr "¿Cuándo fue el incidente?"
+
+#: .\mapApp\models\point.py:77
+#, fuzzy
+#| msgid "Theft Report"
+msgid "Type of report"
+msgstr "Reporte de robo"
+
+#: .\mapApp\models\point.py:84
+msgid "What is your birth year?"
+msgstr "¿Cuál es tu año de nacimiento?"
+
+#: .\mapApp\models\point.py:91
+msgid "What is your birth month?"
+msgstr "¿Cuál es tu mes de nacimiento?"
+
+#: .\mapApp\models\point.py:98
+msgid "Please select your sex"
+msgstr "Por favor selecciona tu sexo"
+
+#: .\mapApp\models\point.py:106
+msgid "Please give a brief description of the incident"
+msgstr "Por favor proporciona una breve descripción del incidente"
+
+#: .\mapApp\models\point.py:114
+msgid "Where did you first find out about BikeMaps.org?"
+msgstr "¿Dónde te enteraste por primera vez sobre BikeMaps.org?"
+
+#: .\mapApp\models\point.py:122
+msgid "Has the infrastructure been changed?"
+msgstr ""
+
+#: .\mapApp\models\theft.py:11
+msgid "Bike (value < $1000)"
+msgstr "Valor de la bicicleta < $1000"
+
+#: .\mapApp\models\theft.py:12
+msgid "Bike (value >= $1000)"
+msgstr "Valor de la bicicleta <= $1000"
+
+#: .\mapApp\models\theft.py:13
+msgid "Major bike component (e.g. tire, seat, handlebars, etc.)"
+msgstr ""
+"Componente principal de la bicicleta (por ejemplo, llanta, asiento, "
+"manubrio, etc.)"
+
+#: .\mapApp\models\theft.py:14
+msgid "Minor bike component (e.g. lights, topbar padding, bell, etc.)"
+msgstr ""
+"Componente menor de la bicicleta (por ejemplo, luces, relleno de la barra "
+"superior, campana, etc.)"
+
+#: .\mapApp\models\theft.py:23
+msgid "Frame locked"
+msgstr "Marco de la bicicleta asegurado con el candado"
+
+#: .\mapApp\models\theft.py:24
+msgid "Frame and tire locked"
+msgstr "Marco de la bicicleta y llanta asegurados con el candado"
+
+#: .\mapApp\models\theft.py:25
+msgid "Frame and both tires locked"
+msgstr "Marco de la bicicleta y  ambas llantas asegurados con el candado"
+
+#: .\mapApp\models\theft.py:26
+msgid "Tire(s) locked"
+msgstr "Llantas aseguradas con el candado"
+
+#: .\mapApp\models\theft.py:30 .\mapApp\models\theft.py:39
+msgid "Not locked"
+msgstr "No asegurada con candado"
+
+#: .\mapApp\models\theft.py:35
+msgid "U-Lock"
+msgstr ""
+
+#: .\mapApp\models\theft.py:36
+msgid "Cable lock"
+msgstr "Candado de cable"
+
+#: .\mapApp\models\theft.py:37
+#, fuzzy
+#| msgid "U-lock and cable"
+msgid "U-Lock and cable"
+msgstr "U-Lock y cable de candado"
+
+#: .\mapApp\models\theft.py:38
+msgid "Padlock"
+msgstr "Candado (normal)"
+
+#: .\mapApp\models\theft.py:42
+msgid "At an outdoor bike rack"
+msgstr "En un estacionamiento para bicicletas afuera"
+
+#: .\mapApp\models\theft.py:43
+msgid "At an indoor bike rack (e.g. parking garage, bike room)"
+msgstr "En un estacionamiento para bicicletas adentro"
+
+#: .\mapApp\models\theft.py:44
+msgid "Inside a bike locker"
+msgstr "En el interior de un casillero para bicicletas"
+
+#: .\mapApp\models\theft.py:45
+msgid "Against street sign"
+msgstr "Contra un señalamiento de calle"
+
+#: .\mapApp\models\theft.py:46
+msgid "Against a fence or railing"
+msgstr "Contra una valla o barandilla"
+
+#: .\mapApp\models\theft.py:47
+msgid "Against a public bench"
+msgstr "Contra un banca pública "
+
+#: .\mapApp\models\theft.py:48
+msgid "Inside a building/lobby"
+msgstr "Dentro de un edificio/lobby"
+
+#: .\mapApp\models\theft.py:52
+msgid "Very heavy (pedestrians passing by in a nearly constant stream)"
+msgstr "Muy pesado ​​(peatones pasando en una corriente casi constante)"
+
+#: .\mapApp\models\theft.py:53
+msgid "Heavy (pedestrians passing by regularly)"
+msgstr "Pesado (peatones pasando regularmente)"
+
+#: .\mapApp\models\theft.py:54
+msgid "Moderate (irregular pedestrian with busy vehicle traffic)"
+msgstr "Moderado (peatón irregular con un tráfico de vehículos cargado)"
+
+#: .\mapApp\models\theft.py:55
+msgid "Light (irregular pedestrian with light to moderate vehicle traffic)"
+msgstr ""
+"Ligero (peatón irregular con un tráfico ligero a moderado de vehículos)"
+
+#: .\mapApp\models\theft.py:56
+msgid "Very light (little pedestrian and vehicle traffic)"
+msgstr "Muy ligero (poco tráfico peatonal y vehicular)."
+
+#: .\mapApp\models\theft.py:60
+msgid "Well lit (e.g. bright daylight)"
+msgstr "Bien iluminado (por ejemplo, luz del día brillante)"
+
+#: .\mapApp\models\theft.py:61
+msgid "Moderately well lit (e.g. streetlights, parking garage)"
+msgstr "Moderadamente bien iluminado (por ejemplo, farolas, estacionamiento)"
+
+#: .\mapApp\models\theft.py:62
+msgid "Poorly lit (e.g. night, unlit alleyway)"
+msgstr "Poco iluminado (por ejemplo, noche, callejón sin luz)"
+
+#: .\mapApp\models\theft.py:70
+#, fuzzy
+#| msgid "What was stolen?*"
+msgid "What was stolen?"
+msgstr "¿Qué fue robado? *"
+
+#: .\mapApp\models\theft.py:76
+#, fuzzy
+#| msgid "Did you have your bike locked?*"
+msgid "Did you have your bike locked?"
+msgstr "¿Tenías tu bicicleta con candado? *"
+
+#: .\mapApp\models\theft.py:82
+#, fuzzy
+#| msgid "What kind of lock were you using?*"
+msgid "What kind of lock were you using?"
+msgstr "¿Qué tipo de candado estabas usando? *"
+
+#: .\mapApp\models\theft.py:88
+#, fuzzy
+#| msgid "Where did you leave your bike?*"
+msgid "Where did you leave your bike?"
+msgstr "¿Dónde dejaste tu bicicleta? *"
+
+#: .\mapApp\models\theft.py:94
+#, fuzzy
+#| msgid ""
+#| "Which describes the lighting conditions where and when the theft occurred?"
+#| "*"
+msgid ""
+"Which describes the lighting conditions where and when the theft occurred?"
+msgstr ""
+"¿Cuál describe las condiciones de iluminación donde y cuando ocurrió el "
+"robo? *"
+
+#: .\mapApp\models\theft.py:100
+#, fuzzy
+#| msgid ""
+#| "What best describes the traffic in the area where the theft occurred?*"
+msgid "Which best describes the traffic in the area where the theft occurred?"
+msgstr "¿Cuál describe mejor el tráfico en el área donde ocurrió el robo? *"
+
+#: .\mapApp\models\theft.py:106
+msgid "Did you file a report with the police?"
+msgstr "¿Presentaste un reporte a la policía?"
+
+#: .\mapApp\models\theft.py:111
+msgid "If you filed a police report, what is the report number?"
+msgstr "Si presentaste un reporte policial, ¿cuál es el número del reporte?"
+
+#: .\mapApp\models\theft.py:118
+msgid "Did you file an insurance claim?"
+msgstr "¿Presentaste una reclamación de seguro?"
+
+#: .\mapApp\models\theft.py:123
+msgid "If you filed an insurance claim, what is the claim number?"
+msgstr ""
+"Si presentaste una reclamación de seguro, ¿cuál es el número de reclamación?"
+
+#: .\mapApp\templates\mapApp\about.html:6
+#: .\mapApp\templates\mapApp\about.html:21
+#: .\mapApp\templates\mapApp\map_legend.html:13
+#: .\mapApp\templates\mapApp\navbar.html:46
+msgid "About"
+msgstr "Acerca de"
+
+#: .\mapApp\templates\mapApp\about.html:22
+msgid ""
+"At BikeMaps we love biking as much as we love maps! Our goal is to map your "
+"cycling experience to make biking safer. You know your local cycling trouble "
+"spots and we want you to map them. Your knowledge of cycling safety, "
+"hazards, and even bike thefts will be analyzed using GIS and statistics to "
+"identify hot spots of cycling safety, risk, and crime.  We are constantly "
+"updating our maps and technology, so send us feedback.  And stay tuned for "
+"updated safety maps generated from YOUR biking experience."
+msgstr ""
+"En BikeMaps amamos tanto andar en bicicleta como a los mapas. Nuestra meta "
+"es mapear tu experiencia ciclista para hacer ciclismo más seguro. Tú conoces "
+"los puntos problemáticos locales para ciclistas y nosotros queremos que los "
+"mapees. Tus conocimientos sobre ciclismo seguro, los peligros e incluso los "
+"robos de bicicletas serán analizados utilizando SIG y estadística para "
+"identificar los puntos críticos de la seguridad, el riesgo y la delincuencia "
+"en el ciclismo. Estamos actualizando constantemente nuestros mapas y "
+"tecnología, así que envíanos tus comentarios. Y mantente atento(a) a los "
+"mapas de seguridad actualizados generados a partir de TU experiencia de "
+"ciclismo."
+
+#: .\mapApp\templates\mapApp\about.html:29
+msgid "Contact"
+msgstr "Contacto"
+
+#: .\mapApp\templates\mapApp\about.html:30
+msgid ""
+"Do you have questions, comments, or feedback about bikemaps.org? We would "
+"love to hear from you!"
+msgstr ""
+"¿Tiene preguntas, comentarios o comentarios sobre bikemaps.org? ¡Nos "
+"encantaría saber de usted!"
+
+#: .\mapApp\templates\mapApp\about.html:31
+msgid "Contact us!"
+msgstr "Contacta con nosotros!"
+
+#: .\mapApp\templates\mapApp\about.html:37
+msgid "FAQ"
+msgstr "Preguntas frecuentes"
+
+#: .\mapApp\templates\mapApp\about.html:38
+msgid "Why are you collecting this information?"
+msgstr "¿Por qué están recolectando esta información?"
+
+#: .\mapApp\templates\mapApp\about.html:39
+#, python-format
+msgid ""
+"Only ~30%(percent)s of bike collision data are collected and there is no "
+"centralized reporting system. BikeMaps.org is a unique tool that let's "
+"citizens build a database by mapping their riding experience."
+msgstr ""
+"Solo se recopilan ~ 30%(percent)s de los datos de colisión de bicicletas y "
+"no hay un sistema de informes centralizado. BikeMaps.org es una herramienta "
+"única que permite a los ciudadanos construir una base de datos al mapear su "
+"experiencia de conducción."
+
+#: .\mapApp\templates\mapApp\about.html:41
+msgid "What will you do with the data?"
+msgstr "¿Qué van a hacer con los datos?"
+
+#: .\mapApp\templates\mapApp\about.html:42
+msgid ""
+"The BikeMaps.org team will analyze data to determine factors that influence "
+"cycling safety. We also have plans to build tools to help people plan safer "
+"routes and to transfer these to planners in your area."
+msgstr ""
+"El equipo de BikeMaps.org analizará los datos para determinar los factores "
+"que influyen en la seguridad del ciclismo. También tenemos planes de crear "
+"herramientas para ayudar a las personas a planificar rutas más seguras y "
+"transferirlas a los planificadores de su área."
+
+#: .\mapApp\templates\mapApp\about.html:44
+msgid "How can citizens and municipalities monitor areas of interest to them?"
+msgstr ""
+"¿Cómo pueden los ciudadanos y municipios monitorear áreas de interés para "
+"ellos?"
+
+#: .\mapApp\templates\mapApp\about.html:48
+#, python-format
+msgid ""
+"By <a href=\"%(register_anchor)s\">registering</a> and <a href="
+"\"%(login_anchor)s\">logging in</a> you will be able to trace a riding or "
+"management region of interest using the %(polygon_icon)s tool. Each time you "
+"login you will be alerted to recent mapping in your region by the "
+"%(bell_icon)s tool."
+msgstr ""
+"Al <a href=\"%(register_anchor)s\">registrarse</a> e <a href="
+"\"%(login_anchor)s\">iniciar sesión</a>, podrá rastrear una región de "
+"conducción o manejo de interés utilizando la %(polygon_icon)s herramienta. "
+"Cada vez que inicie sesión, la %(bell_icon)s herramienta lo alertará sobre "
+"el mapeo reciente en su región."
+
+#: .\mapApp\templates\mapApp\about.html:51
+msgid ""
+"I clicked submit, but noticed that my pin isn't in the right location. How "
+"can I fix it?"
+msgstr ""
+"Hice clic en Enviar, pero noté que mi pin no está en la ubicación correcta. "
+"¿Cómo puedo arreglarlo?"
+
+#: .\mapApp\templates\mapApp\about.html:52
+msgid ""
+"Email us at <a href=\"mailto:info@bikemaps.org\">info@bikemaps.org</a> with "
+"details about the time and location of your report and we will move it."
+msgstr ""
+"Envíenos un correo electrónico a <a href=\"mailto:info@bikemaps.org"
+"\">info@bikemaps.org</a> con detalles sobre la hora y la ubicación de su "
+"informe y lo trasladaremos."
+
+#: .\mapApp\templates\mapApp\about.html:54
+msgid "Where do you get the rider volume data?"
+msgstr "¿De dónde sacan los datos del volumen del ciclistas?"
+
+#: .\mapApp\templates\mapApp\about.html:55
+msgid "The data on where cyclists are riding has been provided by Strava."
+msgstr ""
+"Strava ha proporcionado los datos sobre el lugar en el que viajan los "
+"ciclistas."
+
+#: .\mapApp\templates\mapApp\about.html:57
+msgid "Isn’t Strava data only where recreational cyclists are riding?"
+msgstr "¿Los datos de Strava no solo conciernen a los ciclistas recreativos?"
+
+#: .\mapApp\templates\mapApp\about.html:58
+#, fuzzy, python-format
+#| msgid ""
+#| "Strava labs estimates that 40% of its rider data are commuter traffic, "
+#| "though this likely varies by region."
+msgid ""
+"Strava labs estimates that 40%(percent)s of its rider data are commuter "
+"traffic, though this likely varies by region."
+msgstr ""
+"Strava Labs estima que el 40% de los datos de sus pasajeros son tráfico de "
+"pasajeros, aunque esto probablemente varía según la región."
+
+#: .\mapApp\templates\mapApp\about.html:60
+msgid "Do you have an App?"
+msgstr "¿Tienes una aplicación?"
+
+#: .\mapApp\templates\mapApp\about.html:62
+#, python-format
+msgid ""
+"Yes! We have both an %(app_store_link)siOS app%(link_end)s and an "
+"%(play_store_link)sAndroid app%(link_end)s."
+msgstr ""
+"¡Si! Tenemos tanto una aplicación para %(app_store_link)siOS%(link_end)s "
+"como una aplicación para %(play_store_link)sAndroid%(link_end)s."
+
+#: .\mapApp\templates\mapApp\about.html:64
+msgid "Do you have a video tutorial?"
+msgstr "¿Tienes un video tutorial?"
+
+#: .\mapApp\templates\mapApp\about.html:66
+#, fuzzy
+#| msgid ""
+#| "Yes! Here’s a %(bikemaps_video_link)slink to a video%(link_end)s that one "
+#| "of our followers made."
+msgid ""
+"Yes! Here’s a <a href=\"https://www.youtube.com/watch?v=a_gn3k4uoAo\">link "
+"to a video</a> that one of our followers made."
+msgstr ""
+"¡Si! Aquí hay un %(bikemaps_video_link)senlace a un video%(link_end)s que "
+"hizo uno de nuestros seguidores."
+
+#: .\mapApp\templates\mapApp\about.html:68
+msgid "How can I get involved?"
+msgstr "¿Cómo puedo involucrarme?"
+
+#: .\mapApp\templates\mapApp\about.html:69
+msgid ""
+"You can share the website on social media, host a mapping demo night, or "
+"volunteer to do GIS or development. If you own a bike store or small "
+"business, you can advertise BikeMaps.org. We are also on the lookout for "
+"more research funding to further develop the technology and expand the "
+"study. Or, perhaps your group has GIS data that may improve BikeMaps.org."
+msgstr ""
+"Puedes compartir el sitio web en redes sociales, organizar una Noche de "
+"Mapeo o ser voluntario(a) para hacer SIG o desarrollo. Si tienes una tienda "
+"de bicicletas o una pequeña empresa, puedes anunciar BikeMaps.org. También "
+"estamos buscando más fondos de investigación para desarrollar aún más la "
+"tecnología y ampliar el estudio. O tal vez tu grupo tenga datos SIG que "
+"pueden mejorar BikeMaps.org."
+
+#: .\mapApp\templates\mapApp\about.html:75
+msgid "Publications"
+msgstr "Publicaciones"
+
+#: .\mapApp\templates\mapApp\about.html:76
+msgid ""
+"Check out our published work for a more in depth description of our project"
+msgstr ""
+"Consulte nuestro trabajo publicado para obtener una descripción más "
+"detallada de nuestro proyecto."
+
+#: .\mapApp\templates\mapApp\about.html:149
+msgid "Partners"
+msgstr "Socios"
+
+#: .\mapApp\templates\mapApp\about.html:164
+msgid "Sponsors"
+msgstr "Patrocinadores"
+
+#: .\mapApp\templates\mapApp\about.html:226
+msgid "Supporters"
+msgstr "Partidarios"
+
+#: .\mapApp\templates\mapApp\about.html:344
+msgid "Team"
+msgstr "Equipo"
+
+#: .\mapApp\templates\mapApp\about.html:348
+#, fuzzy
+#| msgid "Welcome to BikeMaps!"
+msgid "Founder of BikeMaps.org"
+msgstr "¡Bienvenido(a) a BikeMaps!"
+
+#: .\mapApp\templates\mapApp\about.html:351
+msgid ""
+"Trisalyn founded BikeMaps.org while heading the Spatial Pattern Analysis and "
+"Research (SPAR) Lab in the Department of Geography at the University of "
+"Victoria. Now, at Arizona State University, she is the Director of the "
+"School of Geographical Sciences and Urban Planning. As a mom and an avid "
+"cyclist, Trisalyn sees BikeMaps.org contributing to even safer cycling "
+"conditions, which will ultimately lead to more people biking."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:356
+msgid "Metro Vancouver Research Lead"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:359
+msgid ""
+"Health and cycling expert, Dr. Meghan Winters, is an assistant professor in "
+"the Faculty of Health Sciences at Simon Fraser University. She works with "
+"the <a href='http://cyclingincities.spph.ubc.ca' target='_blank'>Cycling in "
+"Cities</a> team and has research projects on public bikeshare, cycling "
+"safety, and how changes in the built environment affect the health and "
+"mobility of older adults and youth. Meghan heads the BikeMaps.org research "
+"for Metro Vancouver."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:365
+msgid "Executive Director"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:368
+msgid ""
+"Karen has been part of the BikeMaps.org team since the project began in "
+"2014. She has managed many aspects of the project and has been heavily "
+"involved in community outreach and engagement. Prior to the creation of "
+"BikeMaps.org, Karen worked at SPAR Lab on a wide variety of research "
+"projects. In her personal life, Karen has gained considerable experience "
+"volunteering on numerous boards that support amateur sports or community "
+"initiatives. In addition to being mom to a bike-crazy family, Karen can be "
+"found running the trails around Victoria."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:373
+#: .\mapApp\templates\mapApp\about.html:390
+msgid "Post-Doctoral Research Associate"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:376
+msgid ""
+"Colin uses traditional and emerging geographic data to better understand "
+"people and their environments. A long-time city and mountain biker, Colin is "
+"happy to be part of the BikeMaps.org team as a developer and researcher "
+"because it combines his favorite things: maps, apps, people, and bikes!"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:382
+msgid "Assistant Research Professor"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:385
+msgid ""
+"Rebecca is a recognized cycling safety expert. Her research found that near "
+"misses significantly impact perceived safety while cycling, underscoring the "
+"need to collect and better understand this data. As a multi-modal traveler "
+"and the mother of two burgeoning cyclists, she cares deeply about improving "
+"cycling safety to enable society to reap the health, mobility, and "
+"environmental benefits that a safe and complete bicycling network can bring."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:393
+msgid ""
+"Vanessa is a postdoctoral research associate in the Spatial Analysis "
+"Research Center at Arizona State University. She uses her background in "
+"geography and remote sensing to develop innovative methods for movement "
+"analytics.  She is interested in the effects of environmental and "
+"sociodemographic factors on active transportation. She is currently working "
+"on understanding the effects of weather and pollution on bicycling. An "
+"enthusiast of bicycling commuting, Vanessa is thrilled to be part of the "
+"team because she believes that BikeMaps.org can help make active "
+"transportation safer and even more fun for everyone!"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:399
+msgid "Communication and Outreach, Metro Vancouver"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:402
+msgid ""
+"Moreno joined the BikeMaps team in Fall of 2015. He is based in Vancouver "
+"and helps coordinate BikeMaps.org promotion and community outreach efforts "
+"in the region. A graduate of SFU’s Faculty of Health Sciences, Moreno "
+"completed his thesis research on the impending Vancouver public bike share "
+"system. Moreno views cycling as a solution to many health, social, and "
+"environmental problems, and as the centrepiece of a more sustainable, "
+"egalitarian, and inclusive society."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:407
+#: .\mapApp\templates\mapApp\about.html:424
+msgid "Research Assistant"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:410
+msgid ""
+"Jaimy joined the BikeMaps team in 2016. She is currently pursuing her MSc "
+"with Dr. Meghan Winters at Simon Fraser University. As part of her work, "
+"Jaimy will be looking at the link between investment in All Ages and "
+"Abilities (AAA) bicycle infrastructure and ridership and safety outcomes. "
+"Her work is part of the larger Impacts of Bicycle Infrastructure in Mid-"
+"Sized Cities project, and through it she’ll be advancing skills in "
+"predictive modelling and spatial analysis approaches to model bicycling "
+"exposure and safety."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:416
+msgid "Atlantic Research Lead"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:419
+msgid ""
+"Daniel Fuller is a Canada Research Chair in Population Physical Activity in "
+"the School of Human Kinetics and Recreation at Memorial University. His "
+"research is focused on using wearable technologies to study physical "
+"activity, transportation interventions, and equity in urban spaces. Dan has "
+"an MSc in Kinesiology from the University of Saskatchewan, a PhD in Public "
+"Health from Université de Montréal. Dan is the Principal Investigator on the "
+"INTERACT team and Neighbourhood Factors Team co-lead of the Canadian Urban "
+"Environmental Health (CANUE) Research Consortium. He spends free time "
+"chasing his two rambunctious kids, and relives his youth playing "
+"recreational basketball on Mondays and Wednesdays."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:427
+msgid ""
+"Jonathan is a Masters Student at Memorial University of Newfoundland in the "
+"Walkabilly Lab, sharing the mission of a physically active Canadian "
+"Population. Having been on wheels since his earliest ages, he is passionate "
+"about cycling culture, safety and efficacy. Being a part of BikeMaps "
+"provides a unique research opportunity to improve bike culture and help more "
+"people ride bikes (safely) than ever before."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:433
+msgid "PhD. Student"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:436
+msgid ""
+"Michael is a recent SPAR Lab graduate and currently a PhD student at the "
+"Faculty of Health Sciences at Simon Fraser University. As a part of his PhD, "
+"Michael will be using data collected on BikeMaps.org to investigate the link "
+"between active transport, health and safety. Michael is looking forward to "
+"leveraging the power of crowd-sourced data in order to better understand "
+"cycling safety."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:441
+msgid "PhD Student"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:444
+msgid ""
+"Avipsa is a recent graduate student and currently pursuing her PhD with Dr. "
+"Trisalyn Nelson at the School of Geographical Sciences and Urban Planning at "
+"Arizona State University. As a part of her PhD, Avipsa will be using data "
+"collected on BikeMaps.org to investigate the link between active transport, "
+"health and safety in integration with Strava Metro data. Avipsa is "
+"interested to better understand cycling exposure and risk by means of latest "
+"data analytics  and predictive modeling approaches using Python."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:449
+msgid "ASU BikeMaps Promoter"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:452
+msgid ""
+"Syera Torain is a current undergraduate student at Arizona State University "
+"(ASU) pursuing a degree in Urban Planning, with a minor in Mandarin Chinese "
+"and a certificate in geographical information systems. After graduation, she "
+"will move on to graduate school as a part of the accelerated masters program "
+"for urban planning with a focus in transportation. She is interested in "
+"traveling to transit-friendly cities abroad to research the relationship "
+"between public transportation utilization and the urban landscape. For "
+"BikeMaps, she focuses on promotion and marketing to raise awareness of "
+"BikeMaps for ASU students and Tempe residents. Through participating in "
+"public events, distributing promotional materials, and posting on social "
+"media, she hopes to excite the community about working together to make "
+"biking safer! In her spare time, Syera tries to stay as active as possible, "
+"spending ample time walking outdoors, exercising, and at learning "
+"choreography with the on-campus Korean Pop dance club."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:458
+msgid "TIRF - Chief Operating Officer"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:461
+msgid ""
+"Ward Vanlaar is the Vice President Research of the Traffic Injury Research "
+"Foundation. Ward serves as the lead of the BikeMaps.org research efforts "
+"made possible through funding from the Public Health Agency of Canada. Ward "
+"specializes in complex evaluation designs and statistical analysis. He "
+"believes in 'living healthy by design' and wants to contribute to this goal "
+"by making safe cycling more widely available through initiatives like "
+"BikeMaps.org."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:466
+msgid "TIRF - Research Associate"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:469
+msgid ""
+"Dr. Heather Woods-Fry is a Research Associate with the Traffic Injury "
+"Research Foundation. Heather serves as a coordinator for the collection of "
+"qualitative BikeMaps.org data, and is responsible for analyzing the "
+"qualitative data as part of the evaluation of the BikeMaps.org Public Health "
+"Agency of Canada research project. Heather believes in living a balanced and "
+"active lifestyle, and feels that the accessibility of tools such as BikeMaps."
+"org is essential to promote safe cycling for all Canadians."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:474
+msgid "TIRF - President & CEO"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:477
+msgid ""
+"Robyn Robertson is the President & CEO of the Traffic Injury Research "
+"Foundation. She is the author of TIRF's knowledge translation model, and "
+"spends much of her time working with practitioners and the public to "
+"incorporate research findings in operational practices across "
+"transportation, criminal justice and health systems. She wants to contribute "
+"to the usability of BikeMaps.org data to inform decision-making at all "
+"levels to keep cyclists safe."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:483
+msgid "Developer"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:486
+msgid ""
+"Darren completed his MSc in the SPAR lab in 2017. He continues his "
+"involvement with BikeMaps maintaining the website and mobile apps. When not "
+"coding away, Darren enjoys mountain biking, skiing and hiking."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:491
+#: .\mapApp\templates\mapApp\about.html:508
+#: .\mapApp\templates\mapApp\about.html:517
+msgid "Alumni"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:494
+msgid ""
+"Ben was BikeMaps.org’s first graduate student and was instrumental in the "
+"successful outreach in the early days of BikeMaps.org. For his MSc research, "
+"Ben compared ridership data collected manually to those using crowdsourced "
+"apps such as Strava <a href='http://bit.ly/2af2Cpc' target='_blank'>(http://"
+"bit.ly/2af2Cpc)</a>. Ben’s research also used data collected on BikeMaps.org "
+"to study incidents at multiuse trail and road intersections."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:500
+msgid "Alumni, Developer"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:503
+msgid ""
+"A graduate of the Geomatics program at the University of Victoria, Taylor is "
+"the developer behind the BikeMaps website. Taylor worked at the Hakai "
+"Institute in Victoria, and he is currently pursuing graduate studies at the "
+"University of Waterloo."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:511
+msgid ""
+"Conner completed his BSc. in Geomatics at the University of Victoria. He "
+"enjoys programming, cartography, and understanding spatial and aspatial "
+"relationships. Conner enjoys surfing and camping. Conner is now working at "
+"Lattitude Geographics."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\about.html:520
+msgid ""
+"After completing a postdoctoral fellowship at Arizona State University, "
+"Calvin joined Lime as a Policy Research Manager in 2018."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\disclaimer.html:7
+#: .\mapApp\templates\mapApp\disclaimer.html:11
+#: .\mapApp\templates\mapApp\map_legend.html:77
+msgid "Disclaimer"
+msgstr "Descargo de responsabilidad"
+
+#: .\mapApp\templates\mapApp\disclaimer.html:13
+#, fuzzy
+#| msgid ""
+#| "BikeMaps.org makes no representations, express or implied, as to the "
+#| "accuracy, completeness and timeliness of the information, maps, and data "
+#| "contained herein. Conclusions drawn or decisions made from the "
+#| "information provided on BikeMaps.org are the responsibility of the user. "
+#| "BikeMaps.org assumes no responsibility for its use."
+msgid ""
+"BikeMaps.org makes no representations, express or implied, as to the "
+"accuracy, completeness and timeliness of the information, maps, and data "
+"contained herein. Conclusions drawn or decisions made from the information "
+"provided on BikeMaps.org are the responsibility of the user. BikeMaps.org "
+"assumes no responsibility for its use."
+msgstr ""
+"BikeMaps.org no hace representaciones, expresas o implícitas, en cuanto a la "
+"precisión, integridad y actualidad de la información, mapas y datos "
+"contenidos en este documento. Las conclusiones extraídas o las decisiones "
+"tomadas a partir de la información proporcionada en BikeMaps.org son "
+"responsabilidad del usuario. BikeMaps.org no asume ninguna responsabilidad "
+"por su uso."
+
+#: .\mapApp\templates\mapApp\disclaimer.html:14
+#: .\mapApp\templates\mapApp\ethics.html:103
+#: .\mapApp\templates\mapApp\util\tips.html:8
+#: .\mapApp\templates\mapApp\util\tips.html:20
+#: .\mapApp\templates\mapApp\util\tips.html:35
+#, fuzzy
+#| msgid "Close"
+msgctxt "close window button"
+msgid "Close"
+msgstr "Cerrar"
+
+#: .\mapApp\templates\mapApp\edit_hazards.html:6
+msgid "BikeMaps Hazard Tool"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\edit_hazards.html:26
+msgid "Status"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\edit_hazards.html:33
+#, fuzzy
+#| msgid "Hazard Report"
+msgid "Year reported"
+msgstr "Reporte de peligro"
+
+#: .\mapApp\templates\mapApp\edit_hazards.html:40
+#, fuzzy
+#| msgid "Incidents"
+msgid "Type of Incident"
+msgstr "Incidente"
+
+#: .\mapApp\templates\mapApp\ethics.html:7
+msgid "Terms and Conditions"
+msgstr "Términos y Condiciones"
+
+#: .\mapApp\templates\mapApp\ethics.html:11
+msgid "Letter of Informed Consent"
+msgstr "Carta de Consentimiento Informado"
+
+#: .\mapApp\templates\mapApp\ethics.html:12
+#, fuzzy
+#| msgid ""
+#| "Citizen Based Web-Mapping of Bike Collisions and Near Misses (BikeMaps."
+#| "org)."
+msgid ""
+"Citizen Based Web-Mapping of Bike Collisions and Near Misses (BikeMaps.org)"
+msgstr ""
+"Mapa web basado en el ciudadano de colisiones de bicicletas y casi "
+"desaparecidos (BikeMaps.org)."
+
+#: .\mapApp\templates\mapApp\ethics.html:14
+msgid ""
+"<p>As part of a UVic research project, we are interested in obtaining "
+"information regarding your cycling experiences. In particular we would like "
+"to know about any incidents that you have had. The data collected is "
+"completely anonymous. The survey should take approximately 5 minutes.</p>\n"
+"\n"
+"\t\t<p>By adding a geographic marker onto this website and answering "
+"questions, you are consenting to participate in a study conducted by "
+"researchers from the Spatial Pattern Analysis and Research (SPAR) Lab in the "
+"Department of Geography at the University of Victoria. All information "
+"gathered will be completely anonymous. Volunteers must be 13 years of age or "
+"older to participate. Parents or guardians may log the details for "
+"participants under the age of 13. Please be advised that once a volunteer "
+"participant has submitted their survey, it is impossible to withdraw this "
+"data at a later date given that it is fully anonymous. Also, the data may be "
+"used in additional future studies. Please be aware that data provided in "
+"this study could be linked to data collected in other studies (for e.g., "
+"hospital ER intake surveys).</p>\n"
+"\n"
+"\t\t<p>The data collected from this research will enable SPAR Lab "
+"researchers and graduate students to study the patterns of bike collisions "
+"and near misses in various municipalities including the Capital Regional "
+"District and Vancouver (BC, Canada). Understanding the geographical patterns "
+"to risk for cyclists will enable better decisions to be made regarding "
+"future transportation plans for each region.</p>\n"
+"\n"
+"\t\t<p>Funding for this research project has been provided by NSERC Engage "
+"and Mitacs grants to Dr. Trisalyn Nelson. Other project partners providing "
+"in kind support include: the Captial Regional District (CRD); Pedalheads; "
+"KidicalMassyyj; the Canadian Automobile Association; Bunt and Associates; "
+"Strava.com; and the Traffic Injury Research Foundation (TIRF). If you have "
+"any questions regarding this research, please contact Dr. Trisalyn Nelson, "
+"<a href=\"mailto:trisalyn@uvic.ca\">trisalyn@uvic.ca</a>.</p>\n"
+"\n"
+"        <p>In addition, you may verify the ethical approval of this study, "
+"or raise any concerns you might have, by contacting the Human Research "
+"Ethics Office at the University of Victoria (<a href=\"tel:"
+"+12504724545\">250-472-4545</a> or <a href=\"mailto:ethics@uvic.ca"
+"\">ethics@uvic.ca</a>).</p>"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\incident_form.html:11
+msgid "Submit a new report"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\incident_form.html:15
+msgid "What kind of report is this?"
+msgstr "¿Qué tipo de informe es este?"
+
+#: .\mapApp\templates\mapApp\incident_form.html:18
+msgid "Collision or Fall"
+msgstr "Colisión o caída"
+
+#: .\mapApp\templates\mapApp\incident_form.html:23
+#, fuzzy
+#| msgid "New infrastructure"
+msgid "New Infrastructure"
+msgstr "Nueva infraestructura"
+
+#: .\mapApp\templates\mapApp\incident_form.html:63
+#, fuzzy, python-format
+#| msgid "I have read and understood the terms and conditions."
+msgid ""
+"I have read and understand the <a href='%(terms_url)s' target=_blank> terms "
+"and conditions"
+msgstr "He leído y entendido los términos y condiciones."
+
+#: .\mapApp\templates\mapApp\incident_form.html:67
+#: .\mapApp\templates\mapApp\util\draw.html:16
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: .\mapApp\templates\mapApp\incident_form.html:68
+msgid "Submit"
+msgstr "Enviar"
+
+#: .\mapApp\templates\mapApp\incident_form.html:176 .\mapApp\views\about.py:31
+msgid "Thank you!"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\incident_form.html:176
+msgid "Your incident marker was successfully added."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\map_legend.html:16
+#, python-format
+msgid ""
+"BikeMaps.org is a crowdsource tool for global mapping of cycling safety. "
+"Using the <span class=\"marker-icon\"></span> button, add your own data on "
+"cycling crashes, near-misses, hazards, and thefts. <a href=\"%(about-link)s"
+"\">More info</a>"
+msgstr ""
+"BikeMaps.org es una herramienta de crowdsource para el mapeo global de la "
+"seguridad en bicicleta. Usando el botón <span class=\"marker-icon\"></span>, "
+"agregue sus propios datos sobre accidentes de ciclismo, casi accidentes, "
+"peligros y robos. <a href=\"%(about-link)s\">Más información</a>"
+
+#: .\mapApp\templates\mapApp\map_legend.html:21
+msgid "Incidents"
+msgstr "Incidente"
+
+#: .\mapApp\templates\mapApp\map_legend.html:23
+msgid "Citizen collision report"
+msgstr "Informe de colisión ciudadana"
+
+#: .\mapApp\templates\mapApp\map_legend.html:24
+msgid "Citizen near miss report"
+msgstr "Informe de casi accdiente ciudadano"
+
+#: .\mapApp\templates\mapApp\map_legend.html:25
+msgid "Cyclist hazard"
+msgstr "Peligro para ciclistas"
+
+#: .\mapApp\templates\mapApp\map_legend.html:26
+msgid "Bike theft"
+msgstr "Robo de bicicleta"
+
+#: .\mapApp\templates\mapApp\map_legend.html:27
+msgid "New infrastructure"
+msgstr "Nueva infraestructura"
+
+#: .\mapApp\templates\mapApp\map_legend.html:33
+msgid "Filter"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\map_legend.html:47
+msgid "Strava ridership data"
+msgstr "Datos de usuarios de Strava"
+
+#: .\mapApp\templates\mapApp\map_legend.html:50
+msgid "less"
+msgstr "menos"
+
+#: .\mapApp\templates\mapApp\map_legend.html:50
+msgid "more"
+msgstr "más"
+
+#: .\mapApp\templates\mapApp\map_legend.html:56
+msgid "Alert Areas"
+msgstr "Áreas de Alerta"
+
+#: .\mapApp\templates\mapApp\map_legend.html:67
+msgid "Bike rack"
+msgstr "Anclaje para bicicletas"
+
+#: .\mapApp\templates\mapApp\map_legend.html:68
+#, fuzzy
+#| msgid "Protected bike lane"
+msgid "Protected Bike Lane"
+msgstr "Ciclovía protegida"
+
+#: .\mapApp\templates\mapApp\map_legend.html:69
+#, fuzzy
+#| msgid "Bike lane"
+msgid "Bike Lane"
+msgstr "Ciclovía"
+
+#: .\mapApp\templates\mapApp\map_legend.html:70
+#, fuzzy
+#| msgid "Other cycling route"
+msgid "Other Cycling Route"
+msgstr "Otra ruta ciclista"
+
+#: .\mapApp\templates\mapApp\navbar.html:27
+msgid "Toggle navigation"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\navbar.html:43
+msgid "Home"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\navbar.html:44
+#, fuzzy
+#| msgid "Publications"
+msgid "Visualization"
+msgstr "Publicaciones"
+
+#: .\mapApp\templates\mapApp\navbar.html:45
+msgid "Blog"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\navbar.html:50
+msgid "<a href=\"http://127.0.0.1:8000/es\">Español</a>"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\navbar.html:51
+msgid "<a href=\"https://bikemaps.org/fr\">Français</a>"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\navbar.html:52
+msgid "<a href=\"https://bikemaps.org/is\">Íslenska</a>"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\navbar.html:66
+msgid "Profile"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\navbar.html:67
+msgid "Log out"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\navbar.html:71
+#, fuzzy
+#| msgid "Conditions"
+msgid "Admin options"
+msgstr "Condiciones"
+
+#: .\mapApp\templates\mapApp\navbar.html:72
+msgid "Admin"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\navbar.html:73
+msgid "Export Incidents + Weather"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\navbar.html:74
+#, fuzzy
+#| msgid "Collision"
+msgid "Export Collisions"
+msgstr "Colisión"
+
+#: .\mapApp\templates\mapApp\navbar.html:75
+#, fuzzy
+#| msgid "Near miss"
+msgid "Export Nearmisses"
+msgstr "Casi accdiente"
+
+#: .\mapApp\templates\mapApp\navbar.html:76
+#, fuzzy
+#| msgid "Hazard"
+msgid "Export Hazards"
+msgstr "Peligro"
+
+#: .\mapApp\templates\mapApp\navbar.html:77
+msgid "Export Thefts"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\navbar.html:83
+msgid "Guest"
+msgstr "Invitado"
+
+#: .\mapApp\templates\mapApp\navbar.html:86
+msgid "Log in"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\navbar.html:87
+#: .\mapApp\templates\mapApp\util\tips.html:22
+msgid "Register"
+msgstr "Registrar"
+
+#: .\mapApp\templates\mapApp\recent_reports.html:5
+msgid "BikeMaps Recent Reports"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\util\draw.html:15
+#, fuzzy
+#| msgid "Cancel"
+msgid "Cancel drawing"
+msgstr "Cancelar"
+
+#: .\mapApp\templates\mapApp\util\draw.html:18
+msgid "Delete last point drawn"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\util\draw.html:19
+msgid "Delete last point"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\util\draw.html:21
+msgid "Add a new marker."
+msgstr "Agregar un nuevo marcador."
+
+#: .\mapApp\templates\mapApp\util\draw.html:22
+msgid "Trace an area to receive incident alerts."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\util\draw.html:24
+msgid "Place me where the incident, hazard, or theft occurred."
+msgstr "Colóqueme donde ocurrió el incidente, peligro o robo."
+
+#: .\mapApp\templates\mapApp\util\draw.html:25
+msgid "Trace the area you would like to receive alerts for."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\util\draw.html:26
+msgid "Click to continue drawing shape."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\util\draw.html:27
+msgid "Click first point to close this shape."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\util\draw.html:29
+msgid "Save changes."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\util\draw.html:30
+msgid "Save."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\util\draw.html:31
+msgid "Cancel editing, discards all changes."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\util\draw.html:32
+#, fuzzy
+#| msgid "Cancel"
+msgid "Cancel."
+msgstr "Cancelar"
+
+#: .\mapApp\templates\mapApp\util\draw.html:34
+msgid "Edit alert area."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\util\draw.html:35
+msgid "No alert areas to edit."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\util\draw.html:36
+#, fuzzy
+#| msgid "Receive alerts"
+msgid "Delete alert areas."
+msgstr "Recibir alertas"
+
+#: .\mapApp\templates\mapApp\util\draw.html:37
+msgid "No alert areas to delete."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\util\draw.html:39
+msgid "Drag handles to edit alert areas. Be sure to save your changes."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\util\draw.html:40
+msgid "Click cancel to undo changes."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\util\draw.html:41
+msgid "Click the alert areas to remove"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\util\draw.html:106
+#: .\mapApp\templates\mapApp\util\draw.html:144
+msgid "Success!"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\util\draw.html:106
+msgid "Your riding area was added."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\util\draw.html:144
+msgid "Your riding area has been modified."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\util\draw.html:181
+msgid "Double tap a location to submit a report"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\util\tips.html:9
+msgid "Receive monthly alerts for your riding area"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\util\tips.html:12
+msgid "To setup monitoring areas:"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\util\tips.html:14
+msgid "Login to your account"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\util\tips.html:15
+msgid ""
+"Trace areas on the map you would like to track using the <span class='poly-"
+"icon'></span> button."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\util\tips.html:16
+msgid "note: tracing is currently not supported on mobile devices."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\util\tips.html:23
+msgid "Login"
+msgstr "Iniciar sesión"
+
+#: .\mapApp\templates\mapApp\util\tips.html:36
+msgid "Rider density"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\util\tips.html:42
+msgid ""
+"Our rider density data comes directly from the Strava cycling and running "
+"mobile tracker application. Using Strava, you can track your cycling "
+"commutes and recreational rides using your Android or iPhone. <br><br> "
+"Street-level Heatmap data are available to registered users at the <a href="
+"\"https://www.strava.com/heatmap\">Strava Global Heatmap</a>. See the <a "
+"href=\"https://blog.strava.com/en/press/heatmap-updates/\">Strava Blog</a> "
+"for more information."
+msgstr ""
+
+#: .\mapApp\templates\mapApp\vis.html:8
+msgid "Bikemaps Data Visualization"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\vis.html:22
+msgid "Click the charts to filter the data"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\vis.html:24
+#, python-format
+msgid "%(some)s of %(total)s shown"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\vis.html:26
+msgid "reset all"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\vis.html:36
+msgid "Total reports by type"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\vis.html:37 .\mapApp\templates\mapApp\vis.html:45
+#: .\mapApp\templates\mapApp\vis.html:56 .\mapApp\templates\mapApp\vis.html:64
+msgid "reset"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\vis.html:44
+msgid "Reports summary by weekday"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\vis.html:55
+msgid "Incidents per day for the past year"
+msgstr ""
+
+#: .\mapApp\templates\mapApp\vis.html:63
+msgid "Number of incident by hour of day"
+msgstr ""
+
+#: .\mapApp\views\about.py:31
+msgid "We'll do our best to get back to you soon."
+msgstr ""
+
+#: .\mapApp\views\about.py:34
+msgid "Invalid Header."
+msgstr ""
+
+#: .\mapApp\views\about.py:34
+msgid "Illegal characters found."
+msgstr ""
+
+#: .\mapApp\views\alerts.py:29
+msgid "Error"
+msgstr ""
+
+#: .\mapApp\views\alerts.py:29
+msgid "Invalid geometry data."
+msgstr ""
+
+#, fuzzy
+#~| msgid "When was the incident?"
+#~ msgid "When was the incident?*"
+#~ msgstr "¿Cuándo fue el incidente?"
+
+#, fuzzy
+#~| msgid "Were you injured?"
+#~ msgid "Were you injured?*"
+#~ msgstr "¿Te lastimaste?"
+
+#~ msgid ""
+#~ "Development of this app was sponsored by the Canadian Automobile "
+#~ "Association, the Natural Sciences and Engineering Research Council of "
+#~ "Canada and Mitacs."
+#~ msgstr ""
+#~ "El desarrollo de esta plataforma fue patrocinado por la Asociación "
+#~ "Canadiense de Automóviles, el Consejo de Investigación de Ciencias "
+#~ "Naturales e Ingeniería de Canadá y Mitacs."
+
+#~ msgid ""
+#~ "Do you have questions, comments, or feedback about bikemaps.org? We would "
+#~ "love to hear from you! Please contact us by email at info@bikemaps.org."
+#~ msgstr ""
+#~ "¿Tienes preguntas, comentarios o retroalimentacion sobre bikemaps.org? "
+#~ "¡Nos encantaría saber de ti! Por favor contáctanos por correo electrónico "
+#~ "a info@bikemaps.org."
+
+#~ msgid "Will you be advising local municipalities of the hazards?"
+#~ msgstr "¿Aconsejarán a los municipios locales sobre los peligros?"
+
+#~ msgid "I work for a municipality or city. How can we partner with BikeMaps?"
+#~ msgstr ""
+#~ "Trabajo para el gobierno de un municipio o ciudad. ¿Cómo podemos "
+#~ "asociarnos con BikeMaps?"
+
+#~ msgid ""
+#~ "The BikeMaps.org team is interested in analyzing the data to determine "
+#~ "factors that influence cycling safety. We also have plans to build tools "
+#~ "to help people plan safer routes and to transfer these to planners in "
+#~ "your area."
+#~ msgstr ""
+#~ "El equipo de BikeMaps.org está interesado en analizar los datos para "
+#~ "determinar los factores que influyen en la seguridad del ciclismo. "
+#~ "También tenemos planes para crear herramientas que ayuden a las personas "
+#~ "a planear rutas más seguras y transferirlas a los planificadores de su "
+#~ "área."
+
+#~ msgid ""
+#~ "As more hazard data is logged, we intend to develop a system of alerting "
+#~ "the various municipalities. The time sensitivity of hazards varies widely "
+#~ "and we need to factor this in, for example broken glass versus a pothole."
+#~ msgstr ""
+#~ "A medida que se registran más datos sobre peligros, tenemos la intención "
+#~ "de desarrollar un sistema de alerta para los distintos municipios. La "
+#~ "sensibilidad temporal de los peligros varía ampliamente y debemos tener "
+#~ "esto en cuenta, por ejemplo, vidrios rotos frente a un bache."
+
+#~ msgid ""
+#~ "Stravalabs estimates that 40% of its rider data are commuter traffic, "
+#~ "though this likely varies by region."
+#~ msgstr ""
+#~ "Los datos sobre donde viajan los ciclistas han sido proporcionados por "
+#~ "Strava"
+
+#~ msgid ""
+#~ "We would love to hear from you. Please contact us at info@bikemaps.org or "
+#~ "trisalyn@uvic.ca."
+#~ msgstr ""
+#~ "Nos encantaría saber de ti. Por favor contáctanos en info@bikemaps.org o "
+#~ "trisalyn@uvic.ca."
+
+#~ msgid "What type of incident are you reporting?"
+#~ msgstr "¿Qué tipo de incidente estás reportando?"
+
+#~ msgid "Near Miss"
+#~ msgstr "Casi accdiente"
+
+#~ msgid "Continue"
+#~ msgstr "Continuar"
+
+#~ msgid "Select a Year"
+#~ msgstr "Selecciona un año"
+
+#~ msgid "Select a month"
+#~ msgstr "Selecciona un mes"
+
+#~ msgid "Please select your gender"
+#~ msgstr "Por favor selecciona tu género"
+
+#~ msgid "Select a gender"
+#~ msgstr "Por favor selecciona tu género"
+
+#~ msgid "Select an option"
+#~ msgstr "Selecciona una opcion"
+
+#~ msgid "---------"
+#~ msgstr "---------"
+
+#~ msgid "Jan"
+#~ msgstr "Ene."
+
+#~ msgid "Feb"
+#~ msgstr "Feb."
+
+#~ msgid "Mar"
+#~ msgstr "Mar."
+
+#~ msgid "Apr"
+#~ msgstr "Abr."
+
+#~ msgid "Jun"
+#~ msgstr "Jun."
+
+#~ msgid "Jul"
+#~ msgstr "Jul."
+
+#~ msgid "Aug"
+#~ msgstr "Ago."
+
+#~ msgid "Sept"
+#~ msgstr "Sept."
+
+#~ msgid "Oct"
+#~ msgstr "Oct."
+
+#~ msgid "Nov"
+#~ msgstr "Nov."
+
+#~ msgid "Dec"
+#~ msgstr "Dic."
+
+#~ msgid "Monday"
+#~ msgstr "Lunes"
+
+#~ msgid "Tuesday"
+#~ msgstr "Martes"
+
+#~ msgid "Wednesday"
+#~ msgstr "Miércoles"
+
+#~ msgid "Thursday"
+#~ msgstr "Jueves"
+
+#~ msgid "Friday"
+#~ msgstr "Viernes"
+
+#~ msgid "Saturday"
+#~ msgstr "Sábado"
+
+#~ msgid "Sunday"
+#~ msgstr "Domingo"
+
+#~ msgid "Mon"
+#~ msgstr "Lun."
+
+#~ msgid "Tue"
+#~ msgstr "Mar."
+
+#~ msgid "Wed"
+#~ msgstr "Miérc."
+
+#~ msgid "Thu"
+#~ msgstr "Juev."
+
+#~ msgid "Fri"
+#~ msgstr "Vier."
+
+#~ msgid "Sat"
+#~ msgstr "Sáb."
+
+#~ msgid "Sun"
+#~ msgstr "Dom."
+
+#~ msgid ""
+#~ "Remember birth year, birth month, gender and biking frequency for all "
+#~ "future reports."
+#~ msgstr ""
+#~ "Recordar el año de nacimiento, mes de nacimiento, género y frecuencia de "
+#~ "ciclismo para todos los reportes futuros."
+
+#~ msgid "Done"
+#~ msgstr "Finalizado"
+
+#~ msgid "Description"
+#~ msgstr "Descripción"
+
+#~ msgid "What time did the incident occur?"
+#~ msgstr "¿A qué hora ocurrió el incidente?"
+
+#~ msgid "Select a hazard type"
+#~ msgstr "Selecciona un tipo de peligro"
+
+#~ msgid "Nearmiss Details"
+#~ msgstr "Detalles del casi accdiente"
+
+#~ msgid "I'm more careful about where/when I ride"
+#~ msgstr "Ahora tengo más cuidado con donde/cuándo ando en bicicleta"
+
+#~ msgid "I'm now more careful about where/when I ride AND I bike less"
+#~ msgstr ""
+#~ "Ahora tengo más cuidado con donde/cuándo ando en bicicleta y ando menos."
+
+#~ msgid "Not on the street"
+#~ msgstr "No en la calle."
+
+#~ msgid "Layers"
+#~ msgstr "Capas"
+
+#~ msgid "Less"
+#~ msgstr "Menos"
+
+#~ msgid "More"
+#~ msgstr "Más"
+
+#~ msgid "Username"
+#~ msgstr "Nombre de usuario"
+
+#~ msgid "Password"
+#~ msgstr "Contraseña"
+
+#~ msgid "Create an account"
+#~ msgstr "Crea una cuenta"
+
+#~ msgid "I don't know my password"
+#~ msgstr "No me se mi contraseña"
+
+#~ msgid "Note that your username and password are case sensitive."
+#~ msgstr ""
+#~ "Ten en cuenta que tu nombre de usuario y contraseña distinguen entre "
+#~ "mayúsculas y minúsculas."
+
+#~ msgid "Username and password are required."
+#~ msgstr "Se require de  nombre de usuario y contraseña."
+
+#~ msgid "Do not show this message again."
+#~ msgstr "No mostrar este mensaje de nuevo."
+
+#~ msgid "Settings"
+#~ msgstr "Ajustes"
+
+#~ msgid "Logout"
+#~ msgstr "Cerrar sesión"
+
+#~ msgid "There are no notifications."
+#~ msgstr "No hay notificaciones."
+
+#~ msgid "Reset Password"
+#~ msgstr "Restablecer la contraseña"
+
+#~ msgid "Email:"
+#~ msgstr "Email:"
+
+#~ msgid ""
+#~ "You should receive an email shortly with instructions on how to reset "
+#~ "your account password."
+#~ msgstr ""
+#~ "Recibirás un correo electrónico en breve con instrucciones sobre cómo "
+#~ "restablecer la contraseña de tu cuenta."
+
+#~ msgid "Confirm password"
+#~ msgstr "Confirmar contraseña"
+
+#~ msgid "This field is required."
+#~ msgstr "Este campo es requerido."
+
+#~ msgid "Your username must be at least six characters long."
+#~ msgstr "Tu nombre de usuario debe tener al menos seis caracteres."
+
+#~ msgid "Your passwords do not match."
+#~ msgstr "Tus contraseñas no coinciden."
+
+#~ msgid ""
+#~ "Great! You've just registered.  You should receive an email shortly with "
+#~ "instructions on how to activate your account."
+#~ msgstr ""
+#~ "¡Genial! Te acabas de registrar. Debes recibir un correo electrónico en "
+#~ "breve con instrucciones sobre cómo activar tu cuenta."
+
+#~ msgid "Language"
+#~ msgstr "Idioma"
+
+#~ msgid "English"
+#~ msgstr "Inglés"
+
+#~ msgid "French"
+#~ msgstr "Francés"
+
+#~ msgid "Select a language"
+#~ msgstr "Selecciona un idioma"
+
+#~ msgid "U-lock"
+#~ msgstr "U-Lock"
+
+#~ msgid ""
+#~ "As part of a UVic research project, we are interested in obtaining "
+#~ "information regarding your cycling experiences. In particular we would "
+#~ "like to know about any incidents that you have had. The data collected is "
+#~ "completely anonymous. The survey should take approximately 5 minutes."
+#~ msgstr ""
+#~ "Como parte de un proyecto de investigación de la UVic, estamos "
+#~ "interesados ​​en obtener información sobre tus experiencias de ciclismo. En "
+#~ "particular, nos gustaría saber sobre cualquier incidente que hayas "
+#~ "tenido. Los datos recolectados son completamente anónimos. La encuesta "
+#~ "debe tomar aproximadamente 5 minutos."
+
+#~ msgid ""
+#~ "By adding a geographic marker onto to this website and answering "
+#~ "questions, you are consenting to participate in a study conducted by "
+#~ "researchers from the Spatial Pattern Analysis and Research (SPAR) Lab in "
+#~ "the Department of Geography at the University of Victoria. All "
+#~ "information gathered will be completely anonymous. Volunteers must be 13 "
+#~ "years of age or older to participate. Parents or guardians may log the "
+#~ "details for participants under the age of 13. Please be advised that once "
+#~ "a volunteer participant has submitted their survey, it is impossible to "
+#~ "withdraw this data at a later date given that it is fully anonymous. "
+#~ "Also, the data may be used in additional future studies. Please be aware "
+#~ "that data provided in this study could be linked to data collected in "
+#~ "other studies (for e.g., hospital ER intake surveys)."
+#~ msgstr ""
+#~ "Al agregar un marcador geográfico a este sitio web y responder preguntas, "
+#~ "aceptas participar en un estudio realizado por investigadores del "
+#~ "Laboratorio de Análisis e Investigación de Patrones Espaciales (SPAR) en "
+#~ "el Departamento de Geografía de la Universidad de Victoria. Toda la "
+#~ "información recopilada será completamente anónima. Los voluntarios deben "
+#~ "ser mayores de 13 años para participar. Los padres o tutores pueden "
+#~ "registrar los detalles de los participantes menores de 13 años. Ten en "
+#~ "cuenta que una vez que un participante voluntario haya enviado su "
+#~ "encuesta, es imposible retirar esta información en una fecha posterior, "
+#~ "ya que es totalmente anónima. Además, los datos se pueden utilizar en "
+#~ "futuros estudios adicionales. Ten en cuenta que los datos proporcionados "
+#~ "en este estudio podrían estar vinculados a los datos recopilados en otros "
+#~ "estudios (por ejemplo, encuestas de ingreso a la sala de emergencias)."
+
+#~ msgid ""
+#~ "The data collected from this research will enable SPAR Lab researchers "
+#~ "and graduate students to study the patterns of bike collisions and near "
+#~ "misses in various municipalities including the Capital Regional District "
+#~ "and Vancouver (BC, Canada). Understanding the geographical patterns to "
+#~ "risk for cyclists will enable better decisions to be made regarding "
+#~ "future transportation plans for each region."
+#~ msgstr ""
+#~ "Los datos recopilados a partir de esta investigación permitirán a los "
+#~ "investigadores y estudiantes de posgrado del SPAR Lab estudiar los "
+#~ "patrones de colisiones de bicicletas y casi accidentes en varios "
+#~ "municipios, incluido el Distrito Regional de la capital y Vancouver (BC, "
+#~ "Canadá). La comprensión de los patrones geográficos de riesgo para los "
+#~ "ciclistas permitirá tomar mejores decisiones con respecto a los planes de "
+#~ "transporte futuros para cada región."
+
+#~ msgid ""
+#~ "Funding for this research project has been provided by an NSERC Engage "
+#~ "and Mitacs grants to Dr. Trisalyn Nelson. Other project partners "
+#~ "providing in kind support include: the Capital Regional District (CRD); "
+#~ "Pedalheads; KidicalMassyyj; the Canadian Automobile Association; Bunt and "
+#~ "Associates; Strava.com; and the Traffic Injury Research Foundation "
+#~ "(TIRF). If you have any questions regarding this research, please contact "
+#~ "Dr. Trisalyn Nelson, trisalyn@uvic.ca."
+#~ msgstr ""
+#~ "El financiamiento para este proyecto de investigación ha sido "
+#~ "proporcionado por un fondo de la NSERC Engage y Mitacs al Dr. Trisalyn "
+#~ "Nelson. Otros socios del proyecto que brindan apoyo en especie incluyen: "
+#~ "el Distrito Regional Capital (CRD); Cabeza de pedal; KidicalMassyyj; la "
+#~ "Asociación Canadiense de Automóviles; Bunt y Asociados; Strava.com; y la "
+#~ "Fundación de Investigación de Lesiones de Tráfico (TIRF). Si tienes "
+#~ "alguna pregunta sobre esta investigación, comunícate con el Dr. Trisalyn "
+#~ "Nelson, trisalyn@uvic.ca."
+
+#~ msgid ""
+#~ "In addition, you may verify the ethical approval of this study, or raise "
+#~ "any concerns you might have, by contacting the Human Research Ethics "
+#~ "Office at the University of Victoria (250-472-4545 or ethics@uvic.ca)."
+#~ msgstr ""
+#~ "Además, puedes verificar la aprobación ética de este estudio, o plantear "
+#~ "cualquier inquietud que puedas tener, comunicándote con la Oficina de "
+#~ "Ética en Investigación Humana de la Universidad de Victoria (250-472-4545 "
+#~ "o ethics@uvic.ca)."
+
+#~ msgid "Accept"
+#~ msgstr "Acepto"
+
+#~ msgid "Dogs"
+#~ msgstr "Perros(as)"
+
+#~ msgid "Dog"
+#~ msgstr "Perro(a)"
+
+#~ msgid "What sort of object did the cyclist collide or nearly collide with?"
+#~ msgstr "¿Con qué tipo de objeto chocó el ciclista o casi chocó?"
+
+#~ msgid "Was the cyclist injured?*"
+#~ msgstr "¿El ciclista fue herido?"
+
+#~ msgid "Was the cyclist using bike lights?"
+#~ msgstr "¿El ciclisita estaba usando luces para bicileta?"
+
+#~ msgid "What direction was the cyclist heading?"
+#~ msgstr "¿En qué dirección se dirigía el ciclista?"
+
+#~ msgid "How was the cyclist moving?"
+#~ msgstr "¿Cómo se movía el ciclista?"
+
+#~ msgid "What type of bicycle was involved in the incident?"
+#~ msgstr "¿Qué tipo de bicicleta estuvo involucrada en el incidente?"
+
+#~ msgid "When did you notice the hazard?"
+#~ msgstr "¿Cuándo notaste el peligro?"
+
+#~ msgid "Was the cyclist wearing a helmet?"
+#~ msgstr "¿Llevaba un casco el ciclista?"
+
+#~ msgid "German"
+#~ msgstr "Alemán"
+
+#~ msgid "Spanish"
+#~ msgstr "Español"
+
+#~ msgid "When was the theft?"
+#~ msgstr "¿Cuándo fue el robo?"
