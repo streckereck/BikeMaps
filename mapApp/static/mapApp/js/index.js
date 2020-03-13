@@ -39,7 +39,7 @@ var map = L.map('map', {
     minZoom: 2,
     zoom: 4,
     zoomControl: false,
-    layers: [Esri_Streets_Basemap, stravaHM, incidentData, alertAreas],
+    layers: [OpenStreetMap, stravaHM, incidentData, alertAreas],
     worldCopyJump: true,
 });
 
