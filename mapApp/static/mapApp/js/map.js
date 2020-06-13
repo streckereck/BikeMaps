@@ -4,7 +4,13 @@ var MapQuestOpen_OSM = L.tileLayer('http://otile{s}.mqcdn.com/tiles/1.0.0/map/{z
       subdomains: '1234'
     }),
     OpenStreetMap = L.tileLayer('http://{s}.tile.osm.org/{z}/{x}/{y}.png', {
+        maxZoom: 13,
         attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
+    }),
+    OpenCycleMap = L.tileLayer('https://tile.thunderforest.com/cycle/{z}/{x}/{y}.png?apikey=5bd949eef5d64b8fa02f3fa0d7634b64', {
+      minZoom: 14,
+      maxZoom: 18,
+      attribution: '&copy; <a href="http://osm.org/copyright">OpenStreetMap</a> contributors'
     }),
     Esri_Streets_Basemap = L.esri.basemapLayer("Streets"),
     Mapnik_BW = L.tileLayer('http://{s}.www.toolserver.org/tiles/bw-mapnik/{z}/{x}/{y}.png', {
@@ -24,5 +30,5 @@ var MapQuestOpen_OSM = L.tileLayer('http://otile{s}.mqcdn.com/tiles/1.0.0/map/{z
     });
 
 var osmUrl = 'https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png';
-var osmAttrib = 'Map data © <a href="https://openstreetmap.org">OpenStreetMap</a>';
+var osmAttrib = 'Map data ï¿½ <a href="https://openstreetmap.org">OpenStreetMap</a>';
 var osm = new L.TileLayer(osmUrl);

@@ -60,18 +60,6 @@
             </div>
           </div>
 
-          <div class="legend-group">
-            <input class="layer-toggle" type="checkbox" value="infrastructure">
-            {% trans "Infrastructure" %}
-            <div class="legend-subtext collapse">
-              <div class="bikerack"></div><small> {% trans "Bike rack" %}</small><br>
-              <div class="bikelane solidlane thicklane"></div><small> {% trans "Protected Bike Lane" %}</small><br>
-              <div class="bikelane solidlane"></div><small> {% trans "Bike Lane" %}</small><br>
-              <div class="bikelane dotlane"></div><small> {% trans "Other Cycling Route" %}</small>
-            </div>
-
-
-
             {% url 'mapApp:disclaimer' as disclaimer_link %}
             <div align="right">
             <a href="{{ disclaimer_link }}" target="_blank ">{% trans "Disclaimer" %}</a>
